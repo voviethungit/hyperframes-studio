@@ -1,8 +1,12 @@
 # Không dùng Plus, mất bao nhiêu % công lực?
 
-Video thuyết trình tiếng Việt: 48 giây, Full HD 1920×1080, 30 fps, người dẫn hoạt hình, giọng đọc và phụ đề.
+**Bản mới:** video dọc 9:16, 1080×1920, 30 fps, khoảng 56 giây.
 
-[Xem hoặc tải video MP4](./plus-cong-luc.mp4). Trên trang tệp GitHub, chọn **Download raw file** để tải bản gốc.
+[Xem hoặc tải video 9:16](./plus-cong-luc-9x16.mp4). Trên trang tệp GitHub, chọn **Download raw file** để tải bản gốc.
+
+Đã chỉnh theo phản hồi: dựng lại bố cục dọc; giọng nam miền Bắc trầm và chậm hơn; bỏ tên chương trình, số trang, nhãn người dẫn, URL, footer và thông tin kỹ thuật trên màn hình. Giữ nội dung chính, người dẫn hoạt hình và phụ đề tiếng Việt.
+
+[Bản ngang ban đầu](./plus-cong-luc.mp4) được giữ lại để đối chiếu.
 
 Video giải thích sự khác biệt giữa ChatGPT Free và Plus theo nhu cầu sử dụng, không gán một tỷ lệ mất khả năng cố định.
 
