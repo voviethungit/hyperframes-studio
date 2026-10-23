@@ -1,0 +1,30 @@
+{
+  "file": "megalith-stones-complete.mp4",
+  "size_bytes": 100141329,
+  "sha256": "09e2c0dcb146e17dbc805fe565263bdfe85cb00406fadaf7d5b06aef7d20b471",
+  "duration_seconds": 1825.410612,
+  "video_duration_seconds": 1825.410612,
+  "audio_codec": "mp3",
+  "width": 1920,
+  "height": 1080,
+  "nominal_fps": "25/1",
+  "video_frames": 45636,
+  "audio_packet_payload_sha256": "4051ce8510e4974f7d2c6c9ebd942ac65d3f6fb35a54d112d9a20fad9981b0db",
+  "decoded_narration_pcm_s16le_sha256": "eb0781c8a3cc281298a24324dec2dfbf4de052328ec8ee6410fd8a8f8dd0c314",
+  "checks": {
+    "duration_matches_master_exactly": true,
+    "video_end_matches_master_exactly": true,
+    "resolution_1920x1080": true,
+    "all_45636_frames_present": true,
+    "original_encoded_audio_unchanged": true,
+    "original_decoded_audio_samples_unchanged": true,
+    "all_234_scenes_have_visible_motion": true,
+    "single_original_narration_track": true,
+    "complete_video_and_audio_decode_without_error": true
+  },
+  "renderer": "Deterministic Canvas 2D plus FFmpeg/PyAV; no HeyGen cloud generation",
+  "visual_review": "All 234 scene midpoint frames inspected; geometry/rig corrections and camera refinements applied; motion measured across three positions per scene.",
+  "real_time_human_watch_of_entire_video": false,
+  "human_listening_review": false,
+  "all_checks_pass": true
+}

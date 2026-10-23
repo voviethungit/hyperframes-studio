@@ -1,0 +1,45 @@
+{
+  "video_packets": 45636,
+  "original_audio_packets": 69879,
+  "last_video_sample_duration_microseconds": 10612,
+  "target_duration_seconds": 1825.410612,
+  "audio_reencoded": false,
+  "camera_refinement_frame_ranges": [
+    [
+      20009,
+      20209
+    ],
+    [
+      20209,
+      20250
+    ],
+    [
+      33468,
+      33818
+    ],
+    [
+      33818,
+      33847
+    ],
+    [
+      33918,
+      34227
+    ],
+    [
+      34227,
+      34427
+    ],
+    [
+      34427,
+      34456
+    ],
+    [
+      36677,
+      36927
+    ],
+    [
+      36927,
+      36948
+    ]
+  ]
+}

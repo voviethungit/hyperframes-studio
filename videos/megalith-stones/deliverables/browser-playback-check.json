@@ -1,0 +1,41 @@
+{
+  "duration": 1825.410612,
+  "width": 1920,
+  "height": 1080,
+  "error": null,
+  "seekable": 1825.410612,
+  "playback_frames": 12,
+  "seeks": [
+    {
+      "time": 1,
+      "ready": 4,
+      "error": null
+    },
+    {
+      "time": 338,
+      "ready": 4,
+      "error": null
+    },
+    {
+      "time": 626,
+      "ready": 4,
+      "error": null
+    },
+    {
+      "time": 1360,
+      "ready": 4,
+      "error": null
+    },
+    {
+      "time": 1462,
+      "ready": 4,
+      "error": null
+    },
+    {
+      "time": 1824,
+      "ready": 4,
+      "error": null
+    }
+  ],
+  "transport": "Local file Blob (full seeking); simple development HTTP server does not support byte ranges"
+}

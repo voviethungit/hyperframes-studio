@@ -3,11 +3,10 @@
 Channel: **История в Палочках**  
 Topic: **Как люди поднимали многотонные камни без современной техники?**
 
-This is the complete time-aligned production manifest, **not a generated video**.
-Every HeyGen clip ID is deliberately null. No clip was generated, no credit was
-spent, and no HeyGen generation endpoint or parameter was invented.
+This is the production manifest accompanying the **completed local animated video**.
+Every HeyGen clip ID is deliberately null. The finished video uses local Canvas 2D / FFmpeg animation. No HeyGen clip, endpoint, parameter or authenticated generation is claimed.
 
-## The single missing final-generation capability
+## HeyGen capability status (local production completed)
 
 **Callable, authenticated HeyGen visual clip generation.**
 
@@ -20,7 +19,7 @@ and acoustic analysis are available; they do not supply HeyGen visual generation
 No unsupported API call was attempted. Logging in to a voice/music helper alone
 must not be treated as proof that a visual-generation API is available.
 
-The required fallback has therefore been completed: a continuous manifest for
+The initial fallback was completed, and the user subsequently requested the finished movie. A complete local animated production now accompanies it: a continuous manifest for
 the entire master, with real acoustic alignment, English actions, Russian source
 excerpts, exact numeric edit boundaries, and previous/next continuity notes.
 
@@ -196,8 +195,7 @@ The script itself is not independently rewritten or certified as a scholarly sou
 7. Keep SFX off by default. If deliberately used later, keep them well below every
    spoken word and avoid loud loops. No additional dialogue or automatic subtitles.
 8. Inspect the entire assembled timeline, beginning, all joins and final frame;
-   verify source-audio preservation and exact export endpoint. This full rendered
-   QC has **not** been performed because no footage has been generated.
+   verify source-audio preservation and exact export endpoint. Full-file decoding, exact endpoint, original-audio hash equality, all-scene frame review and motion checks have now been completed for the local movie. See `final-video-check.json`.
 
 The current package makes no claim that HeyGen accepts this JSON directly. It is
 an editorial production manifest, with a schema chosen for review and assembly.

@@ -93,8 +93,10 @@
   "generated_video_full_watch_performed": false,
   "limitations": [
     "Acoustic alignment is model-derived at 40 ms resolution, with flagged weak-word/mixed-language spots; not sample-accurate human phonetic verification.",
-    "Scene physics and historical constraints have been reviewed at the manifest level only. No rendered-frame or full-video visual QC is possible before real clip generation.",
+    "Scene physics and historical constraints have been reviewed at the manifest level only. The completed local film has full technical decode checks and all-scene frame/motion inspection, documented separately.",
     "MP3 container duration is 1825.410612 s; the gapless decoded analysis copy is 1825.398625 s because MP3 includes encoder delay/padding metadata. Final visual endpoint is pinned to original container duration.",
     "A normal constant-frame-rate export may need a shortened final presentation interval/container trim to end exactly on the master; never change audio tempo to fit a frame grid."
-  ]
+  ],
+  "completed_local_video": "../megalith-stones-complete.mp4",
+  "final_video_quality_report": "final-video-check.json"
 }
