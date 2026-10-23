@@ -1,4 +1,10 @@
-# Không dùng Plus, mất bao nhiêu % công lực?
+# Video đã dựng
+
+**Nếu Internet biến mất trong 24 giờ:** video stickman kể chuyện dài 10 phút, ngang 16:9, 1920×1080, chưa có voice để người dùng thu âm sau.
+
+[Xem/tải video 10 phút](https://github.com/voviethungit/hyperframes-studio/raw/refs/heads/main/videos/internet-24h/internet-24h-visual-draft.mp4) · [Kịch bản và hướng dẫn thu voice](./internet-24h/README.md).
+
+## Các bản thử ChatGPT Free / Plus
 
 **Bản thử mới: stickman kể chuyện theo hướng demo3**, video ngang 16:9, 1920×1080, 30 fps, 42 giây.
 
