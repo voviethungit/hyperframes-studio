@@ -1,0 +1,100 @@
+{
+  "checks": {
+    "scene_count": 234,
+    "first_visual_at_zero": true,
+    "last_visual_matches_original_container_end": true,
+    "timeline_continuous": true,
+    "all_durations_positive": true,
+    "script_lines_covered": true,
+    "all_words_assigned_once": true,
+    "all_word_times_monotonic": true,
+    "all_phrase_cues_fit_visual_scene": true,
+    "original_script_words_preserved": true,
+    "no_fabricated_asset_ids": true,
+    "audio_sha256_matches_original": true,
+    "script_sha256_matches_original": true
+  },
+  "all_structural_checks_pass": true,
+  "alignment_engine": "GigaAM v2 Russian CTC int8 ONNX via official sherpa-onnx release, with kaldi-native-fbank and ctc-segmentation; real-space inter-phrase labels and monotonic character-peak refinement",
+  "model_source": "https://github.com/k2-fsa/sherpa-onnx/releases/download/asr-models/sherpa-onnx-nemo-ctc-giga-am-v2-russian-2025-04-19.tar.bz2",
+  "model_sha256": "d0ce4aef25f58d495781ee8f05320d9e51b821f47804e07aa6549b53a72f67e8",
+  "entire_audio_analyzed": true,
+  "acoustic_frame_seconds": 0.04,
+  "energy_analysis_frame_seconds": 0.01,
+  "energy_threshold_dbfs": -38,
+  "energy_active_first_frame_seconds": 0.11,
+  "energy_active_last_frame_seconds": 1825.18,
+  "energy_dbfs_percentiles": {
+    "0": -140.0,
+    "5": -78.821,
+    "25": -37.739,
+    "50": -23.446,
+    "75": -16.922,
+    "95": -14.293,
+    "100": -8.527
+  },
+  "decoded_gapless_duration_seconds": 1825.398625,
+  "master_container_duration_seconds": 1825.410612,
+  "narration_word_range_seconds": [
+    0.08,
+    1825.2
+  ],
+  "normalized_sequence_match_ratio_greedy_asr_vs_supplied_script": 0.9786539427423405,
+  "match_ratio_definition": "SequenceMatcher matching-word count divided by normalized script word count; not word error rate, not a calibrated accuracy measure; chunk boundary token fragments contribute differences.",
+  "minimum_scene_duration_seconds": 1.92,
+  "median_scene_duration_seconds": 7.44,
+  "maximum_scene_duration_seconds": 18.56,
+  "uncovered_visual_seconds": 0,
+  "hook_scene_starts_seconds": [
+    0.0,
+    3.2,
+    8.88,
+    16.0,
+    19.68,
+    24.68,
+    31.28,
+    38.72,
+    43.44,
+    48.76,
+    57.4,
+    61.36
+  ],
+  "alignment_flags": [
+    {
+      "scene_id": "S138",
+      "start": "00:18:04.440",
+      "flags": [
+        "Review weak CTC words: и @ 00:18:09.480"
+      ]
+    },
+    {
+      "scene_id": "S150",
+      "start": "00:19:45.320",
+      "flags": [
+        "Review weak CTC words: канатами @ 00:19:47.920"
+      ]
+    },
+    {
+      "scene_id": "S164",
+      "start": "00:21:36.720",
+      "flags": [
+        "Supplied script includes English 'fascinates'; preserved verbatim in excerpts. Alignment-only phonetic surrogate 'фасцинейтс'; review 00:21:36.960–00:21:37.560. Do not change the master audio."
+      ]
+    },
+    {
+      "scene_id": "S218",
+      "start": "00:28:22.120",
+      "flags": [
+        "Review weak CTC words: пятая @ 00:28:22.120"
+      ]
+    }
+  ],
+  "human_listening_review_performed": false,
+  "generated_video_full_watch_performed": false,
+  "limitations": [
+    "Acoustic alignment is model-derived at 40 ms resolution, with flagged weak-word/mixed-language spots; not sample-accurate human phonetic verification.",
+    "Scene physics and historical constraints have been reviewed at the manifest level only. No rendered-frame or full-video visual QC is possible before real clip generation.",
+    "MP3 container duration is 1825.410612 s; the gapless decoded analysis copy is 1825.398625 s because MP3 includes encoder delay/padding metadata. Final visual endpoint is pinned to original container duration.",
+    "A normal constant-frame-rate export may need a shortened final presentation interval/container trim to end exactly on the master; never change audio tempo to fit a frame grid."
+  ]
+}
