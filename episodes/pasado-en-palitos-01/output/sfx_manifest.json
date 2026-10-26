@@ -1,0 +1,25 @@
+{
+  "source": "procedural synthesis; no voices",
+  "events": [
+    {
+      "time": 9.32,
+      "type": "hoof",
+      "peak_dbfs": -34.686256986571166
+    },
+    {
+      "time": 653.86,
+      "type": "thunder",
+      "peak_dbfs": -34.18133616248698
+    },
+    {
+      "time": 744.84,
+      "type": "mud",
+      "peak_dbfs": -34.486612669648416
+    },
+    {
+      "time": 819.88,
+      "type": "wood",
+      "peak_dbfs": -34.37110744079822
+    }
+  ]
+}

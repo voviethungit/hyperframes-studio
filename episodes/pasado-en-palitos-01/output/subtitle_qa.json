@@ -1,0 +1,138 @@
+{
+  "confidence": "ASR phrases; manual correction pending",
+  "cue_count": 331,
+  "overlap_adjustments": [
+    {
+      "cue": 7,
+      "raw_end": 29.8,
+      "display_end": 29.799999999999997,
+      "reason": "cap at next measured ASR segment onset"
+    },
+    {
+      "cue": 16,
+      "raw_end": 61.800000000000004,
+      "display_end": 61.8,
+      "reason": "cap at next measured ASR segment onset"
+    },
+    {
+      "cue": 22,
+      "raw_end": 74.42,
+      "display_end": 74.41999999999999,
+      "reason": "cap at next measured ASR segment onset"
+    },
+    {
+      "cue": 24,
+      "raw_end": 79.9,
+      "display_end": 79.89999999999999,
+      "reason": "cap at next measured ASR segment onset"
+    },
+    {
+      "cue": 28,
+      "raw_end": 90.98,
+      "display_end": 90.97999999999999,
+      "reason": "cap at next measured ASR segment onset"
+    },
+    {
+      "cue": 46,
+      "raw_end": 149.78000000000003,
+      "display_end": 149.78,
+      "reason": "cap at next measured ASR segment onset"
+    },
+    {
+      "cue": 59,
+      "raw_end": 199.52,
+      "display_end": 199.5,
+      "reason": "cap at next measured ASR segment onset"
+    },
+    {
+      "cue": 76,
+      "raw_end": 261.58000000000004,
+      "display_end": 261.58,
+      "reason": "cap at next measured ASR segment onset"
+    },
+    {
+      "cue": 83,
+      "raw_end": 289.76,
+      "display_end": 289.74,
+      "reason": "cap at next measured ASR segment onset"
+    },
+    {
+      "cue": 86,
+      "raw_end": 303.14000000000004,
+      "display_end": 303.14,
+      "reason": "cap at next measured ASR segment onset"
+    },
+    {
+      "cue": 101,
+      "raw_end": 356.42,
+      "display_end": 356.34000000000003,
+      "reason": "cap at next measured ASR segment onset"
+    },
+    {
+      "cue": 108,
+      "raw_end": 390.6600000000001,
+      "display_end": 390.66,
+      "reason": "cap at next measured ASR segment onset"
+    },
+    {
+      "cue": 116,
+      "raw_end": 431.66,
+      "display_end": 431.65999999999997,
+      "reason": "cap at next measured ASR segment onset"
+    },
+    {
+      "cue": 123,
+      "raw_end": 470.70000000000005,
+      "display_end": 470.68,
+      "reason": "cap at next measured ASR segment onset"
+    },
+    {
+      "cue": 129,
+      "raw_end": 490.02000000000004,
+      "display_end": 490.02,
+      "reason": "cap at next measured ASR segment onset"
+    },
+    {
+      "cue": 145,
+      "raw_end": 552.2600000000001,
+      "display_end": 552.26,
+      "reason": "cap at next measured ASR segment onset"
+    },
+    {
+      "cue": 146,
+      "raw_end": 555.9399999999999,
+      "display_end": 555.88,
+      "reason": "cap at next measured ASR segment onset"
+    },
+    {
+      "cue": 159,
+      "raw_end": 618.9,
+      "display_end": 618.48,
+      "reason": "cap at next measured ASR segment onset"
+    },
+    {
+      "cue": 192,
+      "raw_end": 744.88,
+      "display_end": 744.84,
+      "reason": "cap at next measured ASR segment onset"
+    },
+    {
+      "cue": 254,
+      "raw_end": 983.8,
+      "display_end": 983.78,
+      "reason": "cap at next measured ASR segment onset"
+    },
+    {
+      "cue": 321,
+      "raw_end": 1257.16,
+      "display_end": 1257.14,
+      "reason": "cap at next measured ASR segment onset"
+    },
+    {
+      "cue": 326,
+      "raw_end": 1282.24,
+      "display_end": 1282.2,
+      "reason": "cap at next measured ASR segment onset"
+    }
+  ]
+}

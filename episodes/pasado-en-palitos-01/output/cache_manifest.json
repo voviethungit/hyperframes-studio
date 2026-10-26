@@ -1,0 +1,91 @@
+{
+  "source_sha256": "5bd242aa4fb6042318c251f30bb8cb884b69c8d15050d7ee17bad068415b2649",
+  "frames": 39288,
+  "animation_poses_per_second": 15,
+  "output_fps": 30,
+  "backend": "Remotion React SVG scenes, React SSR, resvg native raster, FFmpeg",
+  "chunks": [
+    {
+      "start_frame": 0,
+      "end_frame_exclusive": 3600,
+      "file": "work/native-chunks/000000-003600.mp4",
+      "status": "complete"
+    },
+    {
+      "start_frame": 3600,
+      "end_frame_exclusive": 7200,
+      "file": "work/native-chunks/003600-007200.mp4",
+      "status": "complete"
+    },
+    {
+      "start_frame": 7200,
+      "end_frame_exclusive": 10800,
+      "file": "work/native-chunks/007200-010800.mp4",
+      "status": "complete"
+    },
+    {
+      "start_frame": 10800,
+      "end_frame_exclusive": 14400,
+      "file": "work/native-chunks/010800-014400.mp4",
+      "status": "complete"
+    },
+    {
+      "start_frame": 14400,
+      "end_frame_exclusive": 18000,
+      "file": "work/native-chunks/014400-018000.mp4",
+      "status": "complete"
+    },
+    {
+      "start_frame": 18000,
+      "end_frame_exclusive": 21600,
+      "file": "work/native-chunks/018000-021600.mp4",
+      "status": "complete"
+    },
+    {
+      "start_frame": 21600,
+      "end_frame_exclusive": 25200,
+      "file": "work/native-chunks/021600-025200.mp4",
+      "status": "complete"
+    },
+    {
+      "start_frame": 25200,
+      "end_frame_exclusive": 28800,
+      "file": "work/native-chunks/025200-028800.mp4",
+      "status": "complete"
+    },
+    {
+      "start_frame": 28800,
+      "end_frame_exclusive": 32400,
+      "file": "work/native-chunks/028800-032400.mp4",
+      "status": "complete"
+    },
+    {
+      "start_frame": 32400,
+      "end_frame_exclusive": 36000,
+      "file": "work/native-chunks/032400-036000.mp4",
+      "status": "complete"
+    },
+    {
+      "start_frame": 36000,
+      "end_frame_exclusive": 39288,
+      "file": "work/native-chunks/036000-039288.mp4",
+      "status": "complete"
+    }
+  ],
+  "render_config_sha256": "1991ff49339de74b16b027ad2d1046446d823211872904393c5cace2025632c2",
+  "targeted_repairs": [
+    {
+      "file": "003600-007200.mp4",
+      "reason": "seated breakfast posture and camera"
+    },
+    {
+      "file": "021600-025200.mp4",
+      "frame_range": [
+        22238,
+        23568
+      ],
+      "reason": "fall completes early, grain follows fall"
+    }
+  ],
+  "notes": "Earlier completed chunks retained through appearance-preserving raster optimizations; full master decoded and checked."
+}

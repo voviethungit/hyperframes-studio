@@ -1,0 +1,28 @@
+{
+  "duration": 1309.6,
+  "width": 1920,
+  "height": 1080,
+  "tests": [
+    {
+      "target": 0,
+      "start": 0,
+      "end": 0.795728,
+      "advanced": true,
+      "error": null
+    },
+    {
+      "target": 654.8,
+      "start": 654.813194,
+      "end": 655.973562,
+      "advanced": true,
+      "error": null
+    },
+    {
+      "target": 1306.6,
+      "start": 1306.603692,
+      "end": 1307.764033,
+      "advanced": true,
+      "error": null
+    }
+  ]
+}
