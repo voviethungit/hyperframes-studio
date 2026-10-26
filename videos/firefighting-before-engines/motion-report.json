@@ -1,0 +1,2565 @@
+{
+  "method": "Three within-scene 160x90 image differences; detects static shots, not mechanical correctness.",
+  "results": [
+    {
+      "scene_id": "S001",
+      "family": "street",
+      "variant": "hook",
+      "mean_rgb_change": [
+        0.320625,
+        0.3269675925925926
+      ],
+      "static_flag": false
+    },
+    {
+      "scene_id": "S002",
+      "family": "street",
+      "variant": "establish",
+      "mean_rgb_change": [
+        0.43675925925925924,
+        0.527337962962963
+      ],
+      "static_flag": false
+    },
+    {
+      "scene_id": "S003",
+      "family": "street",
+      "variant": "narrow",
+      "mean_rgb_change": [
+        28.19509259259259,
+        30.21886574074074
+      ],
+      "static_flag": false
+    },
+    {
+      "scene_id": "S004",
+      "family": "roof",
+      "variant": "materials",
+      "mean_rgb_change": [
+        0.786087962962963,
+        0.7562037037037037
+      ],
+      "static_flag": false
+    },
+    {
+      "scene_id": "S005",
+      "family": "interior",
+      "variant": "hearth",
+      "mean_rgb_change": [
+        13.506851851851852,
+        13.860972222222221
+      ],
+      "static_flag": false
+    },
+    {
+      "scene_id": "S006",
+      "family": "interior",
+      "variant": "fuel",
+      "mean_rgb_change": [
+        13.073773148148149,
+        13.075833333333334
+      ],
+      "static_flag": false
+    },
+    {
+      "scene_id": "S007",
+      "family": "interior",
+      "variant": "ignition",
+      "mean_rgb_change": [
+        0.05974537037037037,
+        0.1150462962962963
+      ],
+      "static_flag": false
+    },
+    {
+      "scene_id": "S008",
+      "family": "modern",
+      "variant": "call",
+      "mean_rgb_change": [
+        4.092962962962963,
+        5.276921296296297
+      ],
+      "static_flag": false
+    },
+    {
+      "scene_id": "S009",
+      "family": "modern",
+      "variant": "equipment",
+      "mean_rgb_change": [
+        0.04423611111111111,
+        0
+      ],
+      "static_flag": false
+    },
+    {
+      "scene_id": "S010",
+      "family": "street",
+      "variant": "absence",
+      "mean_rgb_change": [
+        2.736898148148148,
+        3.0716666666666668
+      ],
+      "static_flag": false
+    },
+    {
+      "scene_id": "S011",
+      "family": "tools",
+      "variant": "old",
+      "mean_rgb_change": [
+        0.2702777777777778,
+        0.35587962962962966
+      ],
+      "static_flag": false
+    },
+    {
+      "scene_id": "S012",
+      "family": "bucket",
+      "variant": "establish",
+      "mean_rgb_change": [
+        2.549699074074074,
+        2.174212962962963
+      ],
+      "static_flag": false
+    },
+    {
+      "scene_id": "S013",
+      "family": "tools",
+      "variant": "inventory",
+      "mean_rgb_change": [
+        0.2843287037037037,
+        0.2614814814814815
+      ],
+      "static_flag": false
+    },
+    {
+      "scene_id": "S014",
+      "family": "demolition",
+      "variant": "preview",
+      "mean_rgb_change": [
+        0.2836574074074074,
+        2.024699074074074
+      ],
+      "static_flag": false
+    },
+    {
+      "scene_id": "S015",
+      "family": "bucket",
+      "variant": "overview",
+      "mean_rgb_change": [
+        2.2491666666666665,
+        2.53875
+      ],
+      "static_flag": false
+    },
+    {
+      "scene_id": "S016",
+      "family": "sand",
+      "variant": "overview",
+      "mean_rgb_change": [
+        13.226041666666667,
+        13.773472222222223
+      ],
+      "static_flag": false
+    },
+    {
+      "scene_id": "S017",
+      "family": "demolition",
+      "variant": "hook",
+      "mean_rgb_change": [
+        0.271712962962963,
+        2.280740740740741
+      ],
+      "static_flag": false
+    },
+    {
+      "scene_id": "S018",
+      "family": "map",
+      "variant": "spread",
+      "mean_rgb_change": [
+        0.020069444444444445,
+        0.21460648148148148
+      ],
+      "static_flag": false
+    },
+    {
+      "scene_id": "S019",
+      "family": "map",
+      "variant": "dense",
+      "mean_rgb_change": [
+        0.042430555555555555,
+        0.04020833333333333
+      ],
+      "static_flag": false
+    },
+    {
+      "scene_id": "S020",
+      "family": "modern",
+      "variant": "spacing",
+      "mean_rgb_change": [
+        0.02738425925925926,
+        0
+      ],
+      "static_flag": false
+    },
+    {
+      "scene_id": "S021",
+      "family": "street",
+      "variant": "wood",
+      "mean_rgb_change": [
+        0.6664583333333334,
+        0.662337962962963
+      ],
+      "static_flag": false
+    },
+    {
+      "scene_id": "S022",
+      "family": "tools",
+      "variant": "wood",
+      "mean_rgb_change": [
+        11.422152777777777,
+        10.778912037037037
+      ],
+      "static_flag": false
+    },
+    {
+      "scene_id": "S023",
+      "family": "interior",
+      "variant": "fuel",
+      "mean_rgb_change": [
+        13.465578703703704,
+        13.892106481481482
+      ],
+      "static_flag": false
+    },
+    {
+      "scene_id": "S024",
+      "family": "roof",
+      "variant": "spread",
+      "mean_rgb_change": [
+        0.35594907407407406,
+        0.3211574074074074
+      ],
+      "static_flag": false
+    },
+    {
+      "scene_id": "S025",
+      "family": "roof",
+      "variant": "embers",
+      "mean_rgb_change": [
+        0.4897222222222222,
+        0.48810185185185184
+      ],
+      "static_flag": false
+    },
+    {
+      "scene_id": "S026",
+      "family": "map",
+      "variant": "spread",
+      "mean_rgb_change": [
+        0.21638888888888888,
+        0.0568287037037037
+      ],
+      "static_flag": false
+    },
+    {
+      "scene_id": "S027",
+      "family": "map",
+      "variant": "protect",
+      "mean_rgb_change": [
+        0.037384259259259256,
+        4.371990740740741
+      ],
+      "static_flag": false
+    },
+    {
+      "scene_id": "S028",
+      "family": "tools",
+      "variant": "bucket",
+      "mean_rgb_change": [
+        0.3638888888888889,
+        1.70375
+      ],
+      "static_flag": false
+    },
+    {
+      "scene_id": "S029",
+      "family": "interior",
+      "variant": "store",
+      "mean_rgb_change": [
+        13.287199074074074,
+        13.697962962962963
+      ],
+      "static_flag": false
+    },
+    {
+      "scene_id": "S030",
+      "family": "bucket",
+      "variant": "source",
+      "mean_rgb_change": [
+        1.5702546296296296,
+        1.3863194444444444
+      ],
+      "static_flag": false
+    },
+    {
+      "scene_id": "S031",
+      "family": "bucket",
+      "variant": "fill",
+      "mean_rgb_change": [
+        1.4112268518518518,
+        1.0835416666666666
+      ],
+      "static_flag": false
+    },
+    {
+      "scene_id": "S032",
+      "family": "bucket",
+      "variant": "pass",
+      "mean_rgb_change": [
+        1.2511805555555555,
+        1.3353240740740742
+      ],
+      "static_flag": false
+    },
+    {
+      "scene_id": "S033",
+      "family": "bucket",
+      "variant": "return",
+      "mean_rgb_change": [
+        1.6698148148148149,
+        1.9243981481481482
+      ],
+      "static_flag": false
+    },
+    {
+      "scene_id": "S034",
+      "family": "bucket",
+      "variant": "small",
+      "mean_rgb_change": [
+        2.1732407407407406,
+        2.5561805555555557
+      ],
+      "static_flag": false
+    },
+    {
+      "scene_id": "S035",
+      "family": "bucket",
+      "variant": "shortage",
+      "mean_rgb_change": [
+        1.9224537037037037,
+        1.7842824074074075
+      ],
+      "static_flag": false
+    },
+    {
+      "scene_id": "S036",
+      "family": "bucket",
+      "variant": "broken",
+      "mean_rgb_change": [
+        1.757962962962963,
+        1.5601157407407407
+      ],
+      "static_flag": false
+    },
+    {
+      "scene_id": "S037",
+      "family": "bucket",
+      "variant": "reach",
+      "mean_rgb_change": [
+        2.4827546296296297,
+        2.025
+      ],
+      "static_flag": false
+    },
+    {
+      "scene_id": "S038",
+      "family": "hazard",
+      "variant": "debris",
+      "mean_rgb_change": [
+        2.6480555555555556,
+        2.8629166666666666
+      ],
+      "static_flag": false
+    },
+    {
+      "scene_id": "S039",
+      "family": "hazard",
+      "variant": "window",
+      "mean_rgb_change": [
+        0.46828703703703706,
+        0.4847916666666667
+      ],
+      "static_flag": false
+    },
+    {
+      "scene_id": "S040",
+      "family": "tools",
+      "variant": "clothing",
+      "mean_rgb_change": [
+        11.380277777777778,
+        10.411875
+      ],
+      "static_flag": false
+    },
+    {
+      "scene_id": "S041",
+      "family": "ladder",
+      "variant": "carry",
+      "mean_rgb_change": [
+        4.048425925925926,
+        3.9096759259259257
+      ],
+      "static_flag": false
+    },
+    {
+      "scene_id": "S042",
+      "family": "ladder",
+      "variant": "place",
+      "mean_rgb_change": [
+        3.0773148148148146,
+        3.0124305555555555
+      ],
+      "static_flag": false
+    },
+    {
+      "scene_id": "S043",
+      "family": "ladder",
+      "variant": "roofwater",
+      "mean_rgb_change": [
+        1.2688425925925926,
+        1.1336805555555556
+      ],
+      "static_flag": false
+    },
+    {
+      "scene_id": "S044",
+      "family": "ladder",
+      "variant": "clear",
+      "mean_rgb_change": [
+        0.11766203703703704,
+        0.14430555555555555
+      ],
+      "static_flag": false
+    },
+    {
+      "scene_id": "S045",
+      "family": "ladder",
+      "variant": "rescue",
+      "mean_rgb_change": [
+        1.3414814814814815,
+        1.3007638888888888
+      ],
+      "static_flag": false
+    },
+    {
+      "scene_id": "S046",
+      "family": "ladder",
+      "variant": "weight",
+      "mean_rgb_change": [
+        0.5846527777777778,
+        0.5925231481481481
+      ],
+      "static_flag": false
+    },
+    {
+      "scene_id": "S047",
+      "family": "hazard",
+      "variant": "inspect",
+      "mean_rgb_change": [
+        0.6358333333333334,
+        0.6327546296296296
+      ],
+      "static_flag": false
+    },
+    {
+      "scene_id": "S048",
+      "family": "hazard",
+      "variant": "retreat",
+      "mean_rgb_change": [
+        0.5542824074074074,
+        0.5650231481481481
+      ],
+      "static_flag": false
+    },
+    {
+      "scene_id": "S049",
+      "family": "street",
+      "variant": "chaos",
+      "mean_rgb_change": [
+        2.3402314814814815,
+        2.296273148148148
+      ],
+      "static_flag": false
+    },
+    {
+      "scene_id": "S050",
+      "family": "tower",
+      "variant": "bell",
+      "mean_rgb_change": [
+        0.16738425925925926,
+        0.0787037037037037
+      ],
+      "static_flag": false
+    },
+    {
+      "scene_id": "S051",
+      "family": "horse",
+      "variant": "panic",
+      "mean_rgb_change": [
+        0.13361111111111112,
+        0.12613425925925925
+      ],
+      "static_flag": false
+    },
+    {
+      "scene_id": "S052",
+      "family": "hazard",
+      "variant": "smoke",
+      "mean_rgb_change": [
+        0.49951388888888887,
+        0.4777546296296296
+      ],
+      "static_flag": false
+    },
+    {
+      "scene_id": "S053",
+      "family": "street",
+      "variant": "chaos",
+      "mean_rgb_change": [
+        2.7561805555555554,
+        3.017962962962963
+      ],
+      "static_flag": false
+    },
+    {
+      "scene_id": "S054",
+      "family": "tools",
+      "variant": "hook",
+      "mean_rgb_change": [
+        11.771365740740741,
+        14.379953703703704
+      ],
+      "static_flag": false
+    },
+    {
+      "scene_id": "S055",
+      "family": "demolition",
+      "variant": "engage",
+      "mean_rgb_change": [
+        0.516875,
+        2.734513888888889
+      ],
+      "static_flag": false
+    },
+    {
+      "scene_id": "S056",
+      "family": "demolition",
+      "variant": "roof",
+      "mean_rgb_change": [
+        3.280300925925926,
+        3.1323148148148148
+      ],
+      "static_flag": false
+    },
+    {
+      "scene_id": "S057",
+      "family": "demolition",
+      "variant": "shed",
+      "mean_rgb_change": [
+        1.7274537037037037,
+        1.0593287037037038
+      ],
+      "static_flag": false
+    },
+    {
+      "scene_id": "S058",
+      "family": "demolition",
+      "variant": "house",
+      "mean_rgb_change": [
+        0.31474537037037037,
+        0.31849537037037035
+      ],
+      "static_flag": false
+    },
+    {
+      "scene_id": "S059",
+      "family": "map",
+      "variant": "fuel",
+      "mean_rgb_change": [
+        0.044583333333333336,
+        0.04722222222222222
+      ],
+      "static_flag": false
+    },
+    {
+      "scene_id": "S060",
+      "family": "map",
+      "variant": "firebreak",
+      "mean_rgb_change": [
+        0.05655092592592593,
+        4.048796296296296
+      ],
+      "static_flag": false
+    },
+    {
+      "scene_id": "S061",
+      "family": "demolition",
+      "variant": "group",
+      "mean_rgb_change": [
+        4.108171296296296,
+        4.976643518518519
+      ],
+      "static_flag": false
+    },
+    {
+      "scene_id": "S062",
+      "family": "demolition",
+      "variant": "powder",
+      "mean_rgb_change": [
+        1.1957175925925927,
+        0.4933796296296296
+      ],
+      "static_flag": false
+    },
+    {
+      "scene_id": "S063",
+      "family": "map",
+      "variant": "blastdanger",
+      "mean_rgb_change": [
+        0.21835648148148148,
+        0.0648611111111111
+      ],
+      "static_flag": false
+    },
+    {
+      "scene_id": "S064",
+      "family": "map",
+      "variant": "choice",
+      "mean_rgb_change": [
+        0.05613425925925926,
+        0.05534722222222222
+      ],
+      "static_flag": false
+    },
+    {
+      "scene_id": "S065",
+      "family": "roof",
+      "variant": "wind",
+      "mean_rgb_change": [
+        0.4281712962962963,
+        0.4293518518518519
+      ],
+      "static_flag": false
+    },
+    {
+      "scene_id": "S066",
+      "family": "roof",
+      "variant": "newfire",
+      "mean_rgb_change": [
+        0.48854166666666665,
+        0.5654398148148149
+      ],
+      "static_flag": false
+    },
+    {
+      "scene_id": "S067",
+      "family": "roof",
+      "variant": "watch",
+      "mean_rgb_change": [
+        0.3388888888888889,
+        0.3257175925925926
+      ],
+      "static_flag": false
+    },
+    {
+      "scene_id": "S068",
+      "family": "roof",
+      "variant": "soak",
+      "mean_rgb_change": [
+        0.2904861111111111,
+        0.2954398148148148
+      ],
+      "static_flag": false
+    },
+    {
+      "scene_id": "S069",
+      "family": "interior",
+      "variant": "attic",
+      "mean_rgb_change": [
+        13.900601851851851,
+        13.593032407407408
+      ],
+      "static_flag": false
+    },
+    {
+      "scene_id": "S070",
+      "family": "roof",
+      "variant": "intercept",
+      "mean_rgb_change": [
+        0.8099305555555556,
+        0.7854861111111111
+      ],
+      "static_flag": false
+    },
+    {
+      "scene_id": "S071",
+      "family": "sand",
+      "variant": "introduce",
+      "mean_rgb_change": [
+        13.115347222222223,
+        14.953194444444444
+      ],
+      "static_flag": false
+    },
+    {
+      "scene_id": "S072",
+      "family": "sand",
+      "variant": "oil",
+      "mean_rgb_change": [
+        13.495,
+        14.52349537037037
+      ],
+      "static_flag": false
+    },
+    {
+      "scene_id": "S073",
+      "family": "sand",
+      "variant": "smother",
+      "mean_rgb_change": [
+        0.04337962962962963,
+        0.04185185185185185
+      ],
+      "static_flag": false
+    },
+    {
+      "scene_id": "S074",
+      "family": "sand",
+      "variant": "ready",
+      "mean_rgb_change": [
+        13.22587962962963,
+        13.771805555555556
+      ],
+      "static_flag": false
+    },
+    {
+      "scene_id": "S075",
+      "family": "river",
+      "variant": "overview",
+      "mean_rgb_change": [
+        22.00861111111111,
+        21.844722222222224
+      ],
+      "static_flag": false
+    },
+    {
+      "scene_id": "S076",
+      "family": "river",
+      "variant": "height",
+      "mean_rgb_change": [
+        20.328078703703703,
+        20.340972222222224
+      ],
+      "static_flag": false
+    },
+    {
+      "scene_id": "S077",
+      "family": "river",
+      "variant": "access",
+      "mean_rgb_change": [
+        20.397662037037037,
+        20.446342592592593
+      ],
+      "static_flag": false
+    },
+    {
+      "scene_id": "S078",
+      "family": "river",
+      "variant": "winter",
+      "mean_rgb_change": [
+        18.611203703703705,
+        18.604351851851852
+      ],
+      "static_flag": false
+    },
+    {
+      "scene_id": "S079",
+      "family": "bucket",
+      "variant": "distance",
+      "mean_rgb_change": [
+        1.0480092592592594,
+        1.5605555555555555
+      ],
+      "static_flag": false
+    },
+    {
+      "scene_id": "S080",
+      "family": "storage",
+      "variant": "barrels",
+      "mean_rgb_change": [
+        16.688935185185183,
+        18.456296296296298
+      ],
+      "static_flag": false
+    },
+    {
+      "scene_id": "S081",
+      "family": "storage",
+      "variant": "cistern",
+      "mean_rgb_change": [
+        15.199907407407407,
+        15.382199074074075
+      ],
+      "static_flag": false
+    },
+    {
+      "scene_id": "S082",
+      "family": "pump",
+      "variant": "introduce",
+      "mean_rgb_change": [
+        1.0504398148148149,
+        1.0055787037037036
+      ],
+      "static_flag": false
+    },
+    {
+      "scene_id": "S083",
+      "family": "pump",
+      "variant": "ancient",
+      "mean_rgb_change": [
+        0.7522453703703704,
+        2.0409722222222224
+      ],
+      "static_flag": false
+    },
+    {
+      "scene_id": "S084",
+      "family": "pump",
+      "variant": "section",
+      "mean_rgb_change": [
+        0.8879166666666667,
+        1.5641435185185186
+      ],
+      "static_flag": false
+    },
+    {
+      "scene_id": "S085",
+      "family": "pump",
+      "variant": "jet",
+      "mean_rgb_change": [
+        0.2669212962962963,
+        0.27900462962962963
+      ],
+      "static_flag": false
+    },
+    {
+      "scene_id": "S086",
+      "family": "pump",
+      "variant": "cart",
+      "mean_rgb_change": [
+        0.5235185185185185,
+        0.4449537037037037
+      ],
+      "static_flag": false
+    },
+    {
+      "scene_id": "S087",
+      "family": "pump",
+      "variant": "rhythm",
+      "mean_rgb_change": [
+        0.9826851851851852,
+        0.8495601851851852
+      ],
+      "static_flag": false
+    },
+    {
+      "scene_id": "S088",
+      "family": "pump",
+      "variant": "empty",
+      "mean_rgb_change": [
+        1.2306018518518518,
+        1.1852546296296296
+      ],
+      "static_flag": false
+    },
+    {
+      "scene_id": "S089",
+      "family": "pump",
+      "variant": "supply",
+      "mean_rgb_change": [
+        0.8869907407407407,
+        0.8815046296296296
+      ],
+      "static_flag": false
+    },
+    {
+      "scene_id": "S090",
+      "family": "pump",
+      "variant": "roles",
+      "mean_rgb_change": [
+        0.763125,
+        0.788449074074074
+      ],
+      "static_flag": false
+    },
+    {
+      "scene_id": "S091",
+      "family": "pump",
+      "variant": "rigid",
+      "mean_rgb_change": [
+        0.897337962962963,
+        0.8455555555555555
+      ],
+      "static_flag": false
+    },
+    {
+      "scene_id": "S092",
+      "family": "hose",
+      "variant": "route",
+      "mean_rgb_change": [
+        0.8339814814814814,
+        2.2547916666666667
+      ],
+      "static_flag": false
+    },
+    {
+      "scene_id": "S093",
+      "family": "hose",
+      "variant": "seam",
+      "mean_rgb_change": [
+        0.31949074074074074,
+        0.20159722222222223
+      ],
+      "static_flag": false
+    },
+    {
+      "scene_id": "S094",
+      "family": "hose",
+      "variant": "leak",
+      "mean_rgb_change": [
+        0.7936111111111112,
+        1.3086111111111112
+      ],
+      "static_flag": false
+    },
+    {
+      "scene_id": "S095",
+      "family": "pump",
+      "variant": "team",
+      "mean_rgb_change": [
+        0.46706018518518516,
+        0.8106481481481481
+      ],
+      "static_flag": false
+    },
+    {
+      "scene_id": "S096",
+      "family": "station",
+      "variant": "organize",
+      "mean_rgb_change": [
+        0.25201388888888887,
+        0.19393518518518518
+      ],
+      "static_flag": false
+    },
+    {
+      "scene_id": "S097",
+      "family": "tower",
+      "variant": "bell",
+      "mean_rgb_change": [
+        0.17965277777777777,
+        0.1342824074074074
+      ],
+      "static_flag": false
+    },
+    {
+      "scene_id": "S098",
+      "family": "street",
+      "variant": "mobilize",
+      "mean_rgb_change": [
+        2.652662037037037,
+        2.955578703703704
+      ],
+      "static_flag": false
+    },
+    {
+      "scene_id": "S099",
+      "family": "street",
+      "variant": "crowd",
+      "mean_rgb_change": [
+        0.1519675925925926,
+        0.1752314814814815
+      ],
+      "static_flag": false
+    },
+    {
+      "scene_id": "S100",
+      "family": "rescue",
+      "variant": "guard",
+      "mean_rgb_change": [
+        0.22236111111111112,
+        0.231875
+      ],
+      "static_flag": false
+    },
+    {
+      "scene_id": "S101",
+      "family": "pump",
+      "variant": "roles",
+      "mean_rgb_change": [
+        3.55162037037037,
+        0.2584490740740741
+      ],
+      "static_flag": false
+    },
+    {
+      "scene_id": "S102",
+      "family": "ladder",
+      "variant": "team",
+      "mean_rgb_change": [
+        1.0228935185185186,
+        1.012662037037037
+      ],
+      "static_flag": false
+    },
+    {
+      "scene_id": "S103",
+      "family": "street",
+      "variant": "foreman",
+      "mean_rgb_change": [
+        0.24833333333333332,
+        0.22657407407407407
+      ],
+      "static_flag": false
+    },
+    {
+      "scene_id": "S104",
+      "family": "map",
+      "variant": "priorities",
+      "mean_rgb_change": [
+        0.05949074074074074,
+        0.0744675925925926
+      ],
+      "static_flag": false
+    },
+    {
+      "scene_id": "S105",
+      "family": "map",
+      "variant": "decisions",
+      "mean_rgb_change": [
+        0.07900462962962963,
+        0.08050925925925925
+      ],
+      "static_flag": false
+    },
+    {
+      "scene_id": "S106",
+      "family": "map",
+      "variant": "waterroute",
+      "mean_rgb_change": [
+        0.05115740740740741,
+        0.05543981481481482
+      ],
+      "static_flag": false
+    },
+    {
+      "scene_id": "S107",
+      "family": "roof",
+      "variant": "neglect",
+      "mean_rgb_change": [
+        0.3549537037037037,
+        0.3520138888888889
+      ],
+      "static_flag": false
+    },
+    {
+      "scene_id": "S108",
+      "family": "pump",
+      "variant": "organize",
+      "mean_rgb_change": [
+        0.813587962962963,
+        0.7854166666666667
+      ],
+      "static_flag": false
+    },
+    {
+      "scene_id": "S109",
+      "family": "tower",
+      "variant": "watch",
+      "mean_rgb_change": [
+        18.205879629629628,
+        17.68074074074074
+      ],
+      "static_flag": false
+    },
+    {
+      "scene_id": "S110",
+      "family": "tower",
+      "variant": "glow",
+      "mean_rgb_change": [
+        18.60238425925926,
+        18.05377314814815
+      ],
+      "static_flag": false
+    },
+    {
+      "scene_id": "S111",
+      "family": "tower",
+      "variant": "bell",
+      "mean_rgb_change": [
+        0.14148148148148149,
+        0.1799537037037037
+      ],
+      "static_flag": false
+    },
+    {
+      "scene_id": "S112",
+      "family": "tower",
+      "variant": "signals",
+      "mean_rgb_change": [
+        17.64523148148148,
+        17.98111111111111
+      ],
+      "static_flag": false
+    },
+    {
+      "scene_id": "S113",
+      "family": "map",
+      "variant": "signal",
+      "mean_rgb_change": [
+        0.04465277777777778,
+        0.042083333333333334
+      ],
+      "static_flag": false
+    },
+    {
+      "scene_id": "S114",
+      "family": "map",
+      "variant": "delay",
+      "mean_rgb_change": [
+        0.26395833333333335,
+        0.28127314814814813
+      ],
+      "static_flag": false
+    },
+    {
+      "scene_id": "S115",
+      "family": "street",
+      "variant": "prevention",
+      "mean_rgb_change": [
+        20.251296296296296,
+        20.48962962962963
+      ],
+      "static_flag": false
+    },
+    {
+      "scene_id": "S116",
+      "family": "street",
+      "variant": "rebuild",
+      "mean_rgb_change": [
+        20.471296296296295,
+        20.459699074074074
+      ],
+      "static_flag": false
+    },
+    {
+      "scene_id": "S117",
+      "family": "interior",
+      "variant": "inspection",
+      "mean_rgb_change": [
+        14.514212962962963,
+        14.658564814814815
+      ],
+      "static_flag": false
+    },
+    {
+      "scene_id": "S118",
+      "family": "storage",
+      "variant": "ready",
+      "mean_rgb_change": [
+        20.70476851851852,
+        20.30097222222222
+      ],
+      "static_flag": false
+    },
+    {
+      "scene_id": "S119",
+      "family": "interior",
+      "variant": "forge",
+      "mean_rgb_change": [
+        0.013541666666666667,
+        0.10916666666666666
+      ],
+      "static_flag": false
+    },
+    {
+      "scene_id": "S120",
+      "family": "interior",
+      "variant": "bakery",
+      "mean_rgb_change": [
+        13.61298611111111,
+        13.837754629629629
+      ],
+      "static_flag": false
+    },
+    {
+      "scene_id": "S121",
+      "family": "interior",
+      "variant": "craft",
+      "mean_rgb_change": [
+        14.403333333333334,
+        13.273518518518518
+      ],
+      "static_flag": false
+    },
+    {
+      "scene_id": "S122",
+      "family": "interior",
+      "variant": "daily",
+      "mean_rgb_change": [
+        13.550300925925926,
+        13.931041666666667
+      ],
+      "static_flag": false
+    },
+    {
+      "scene_id": "S123",
+      "family": "interior",
+      "variant": "care",
+      "mean_rgb_change": [
+        0.0011111111111111111,
+        0.027314814814814816
+      ],
+      "static_flag": false
+    },
+    {
+      "scene_id": "S124",
+      "family": "street",
+      "variant": "night",
+      "mean_rgb_change": [
+        1.119398148148148,
+        1.0902314814814815
+      ],
+      "static_flag": false
+    },
+    {
+      "scene_id": "S125",
+      "family": "interior",
+      "variant": "sleep",
+      "mean_rgb_change": [
+        0.11092592592592593,
+        0.1117361111111111
+      ],
+      "static_flag": false
+    },
+    {
+      "scene_id": "S126",
+      "family": "interior",
+      "variant": "smokelayer",
+      "mean_rgb_change": [
+        0.15347222222222223,
+        0.150625
+      ],
+      "static_flag": false
+    },
+    {
+      "scene_id": "S127",
+      "family": "street",
+      "variant": "nightfire",
+      "mean_rgb_change": [
+        0.2539351851851852,
+        0.2682175925925926
+      ],
+      "static_flag": false
+    },
+    {
+      "scene_id": "S128",
+      "family": "street",
+      "variant": "patrol",
+      "mean_rgb_change": [
+        0.1787037037037037,
+        0
+      ],
+      "static_flag": false
+    },
+    {
+      "scene_id": "S129",
+      "family": "tower",
+      "variant": "alarm",
+      "mean_rgb_change": [
+        0.2591898148148148,
+        0.2591435185185185
+      ],
+      "static_flag": false
+    },
+    {
+      "scene_id": "S130",
+      "family": "map",
+      "variant": "nightaccess",
+      "mean_rgb_change": [
+        0.06465277777777778,
+        0.058333333333333334
+      ],
+      "static_flag": false
+    },
+    {
+      "scene_id": "S131",
+      "family": "horse",
+      "variant": "blocked",
+      "mean_rgb_change": [
+        0.24252314814814815,
+        0.3687962962962963
+      ],
+      "static_flag": false
+    },
+    {
+      "scene_id": "S132",
+      "family": "horse",
+      "variant": "fear",
+      "mean_rgb_change": [
+        0.11381944444444445,
+        0.10655092592592592
+      ],
+      "static_flag": false
+    },
+    {
+      "scene_id": "S133",
+      "family": "station",
+      "variant": "ready",
+      "mean_rgb_change": [
+        0.3824537037037037,
+        0.12363425925925926
+      ],
+      "static_flag": false
+    },
+    {
+      "scene_id": "S134",
+      "family": "horse",
+      "variant": "departure",
+      "mean_rgb_change": [
+        6.579930555555555,
+        6.30300925925926
+      ],
+      "static_flag": false
+    },
+    {
+      "scene_id": "S135",
+      "family": "pump",
+      "variant": "rhythm",
+      "mean_rgb_change": [
+        0.8369212962962963,
+        0.6344212962962963
+      ],
+      "static_flag": false
+    },
+    {
+      "scene_id": "S136",
+      "family": "pump",
+      "variant": "effort",
+      "mean_rgb_change": [
+        1.0324305555555555,
+        0.6958796296296297
+      ],
+      "static_flag": false
+    },
+    {
+      "scene_id": "S137",
+      "family": "pump",
+      "variant": "fatigue",
+      "mean_rgb_change": [
+        0.8856712962962963,
+        0.8815046296296296
+      ],
+      "static_flag": false
+    },
+    {
+      "scene_id": "S138",
+      "family": "pump",
+      "variant": "pressure",
+      "mean_rgb_change": [
+        0.41206018518518517,
+        0.5563425925925926
+      ],
+      "static_flag": false
+    },
+    {
+      "scene_id": "S139",
+      "family": "pump",
+      "variant": "roles",
+      "mean_rgb_change": [
+        0.43916666666666665,
+        0.3716435185185185
+      ],
+      "static_flag": false
+    },
+    {
+      "scene_id": "S140",
+      "family": "horse",
+      "variant": "rescue",
+      "mean_rgb_change": [
+        3.265277777777778,
+        3.546689814814815
+      ],
+      "static_flag": false
+    },
+    {
+      "scene_id": "S141",
+      "family": "rescue",
+      "variant": "chest",
+      "mean_rgb_change": [
+        3.5550462962962963,
+        3.645601851851852
+      ],
+      "static_flag": false
+    },
+    {
+      "scene_id": "S142",
+      "family": "rescue",
+      "variant": "window",
+      "mean_rgb_change": [
+        0.1787037037037037,
+        0.18388888888888888
+      ],
+      "static_flag": false
+    },
+    {
+      "scene_id": "S143",
+      "family": "rescue",
+      "variant": "documents",
+      "mean_rgb_change": [
+        0.11791666666666667,
+        0.10569444444444444
+      ],
+      "static_flag": false
+    },
+    {
+      "scene_id": "S144",
+      "family": "rescue",
+      "variant": "restrain",
+      "mean_rgb_change": [
+        0.2340509259259259,
+        0.24465277777777777
+      ],
+      "static_flag": false
+    },
+    {
+      "scene_id": "S145",
+      "family": "horse",
+      "variant": "stable",
+      "mean_rgb_change": [
+        17.411458333333332,
+        17.909884259259258
+      ],
+      "static_flag": false
+    },
+    {
+      "scene_id": "S146",
+      "family": "horse",
+      "variant": "fear",
+      "mean_rgb_change": [
+        0.09300925925925926,
+        0.09236111111111112
+      ],
+      "static_flag": false
+    },
+    {
+      "scene_id": "S147",
+      "family": "horse",
+      "variant": "blindfold",
+      "mean_rgb_change": [
+        3.3716898148148147,
+        3.570902777777778
+      ],
+      "static_flag": false
+    },
+    {
+      "scene_id": "S148",
+      "family": "map",
+      "variant": "resources",
+      "mean_rgb_change": [
+        0.0325,
+        0.03849537037037037
+      ],
+      "static_flag": false
+    },
+    {
+      "scene_id": "S149",
+      "family": "pump",
+      "variant": "shortage",
+      "mean_rgb_change": [
+        0.7664351851851852,
+        0.4401157407407407
+      ],
+      "static_flag": false
+    },
+    {
+      "scene_id": "S150",
+      "family": "map",
+      "variant": "priorities",
+      "mean_rgb_change": [
+        0.061412037037037036,
+        0.05912037037037037
+      ],
+      "static_flag": false
+    },
+    {
+      "scene_id": "S151",
+      "family": "street",
+      "variant": "losthouse",
+      "mean_rgb_change": [
+        0.34032407407407406,
+        0.314375
+      ],
+      "static_flag": false
+    },
+    {
+      "scene_id": "S152",
+      "family": "roof",
+      "variant": "protect",
+      "mean_rgb_change": [
+        0.3618287037037037,
+        0.3383101851851852
+      ],
+      "static_flag": false
+    },
+    {
+      "scene_id": "S153",
+      "family": "demolition",
+      "variant": "clearfuel",
+      "mean_rgb_change": [
+        0.381875,
+        1.9786574074074075
+      ],
+      "static_flag": false
+    },
+    {
+      "scene_id": "S154",
+      "family": "map",
+      "variant": "firebreak",
+      "mean_rgb_change": [
+        0.04946759259259259,
+        2.430717592592593
+      ],
+      "static_flag": false
+    },
+    {
+      "scene_id": "S155",
+      "family": "tools",
+      "variant": "demolition",
+      "mean_rgb_change": [
+        11.60925925925926,
+        10.394490740740741
+      ],
+      "static_flag": false
+    },
+    {
+      "scene_id": "S156",
+      "family": "demolition",
+      "variant": "axe",
+      "mean_rgb_change": [
+        0.538587962962963,
+        0.6668518518518518
+      ],
+      "static_flag": false
+    },
+    {
+      "scene_id": "S157",
+      "family": "demolition",
+      "variant": "canopy",
+      "mean_rgb_change": [
+        3.4141203703703704,
+        3.194652777777778
+      ],
+      "static_flag": false
+    },
+    {
+      "scene_id": "S158",
+      "family": "demolition",
+      "variant": "rope",
+      "mean_rgb_change": [
+        4.214745370370371,
+        1.7806944444444444
+      ],
+      "static_flag": false
+    },
+    {
+      "scene_id": "S159",
+      "family": "hazard",
+      "variant": "collapse",
+      "mean_rgb_change": [
+        2.039513888888889,
+        2.3475
+      ],
+      "static_flag": false
+    },
+    {
+      "scene_id": "S160",
+      "family": "interior",
+      "variant": "smoke",
+      "mean_rgb_change": [
+        0.13025462962962964,
+        1.485162037037037
+      ],
+      "static_flag": false
+    },
+    {
+      "scene_id": "S161",
+      "family": "rescue",
+      "variant": "cloth",
+      "mean_rgb_change": [
+        0.15268518518518517,
+        0.15393518518518517
+      ],
+      "static_flag": false
+    },
+    {
+      "scene_id": "S162",
+      "family": "interior",
+      "variant": "low",
+      "mean_rgb_change": [
+        0.09743055555555556,
+        0.09793981481481481
+      ],
+      "static_flag": false
+    },
+    {
+      "scene_id": "S163",
+      "family": "rescue",
+      "variant": "withdraw",
+      "mean_rgb_change": [
+        0.15018518518518517,
+        0.14050925925925925
+      ],
+      "static_flag": false
+    },
+    {
+      "scene_id": "S164",
+      "family": "ladder",
+      "variant": "rescue",
+      "mean_rgb_change": [
+        1.2743981481481481,
+        1.1744907407407408
+      ],
+      "static_flag": false
+    },
+    {
+      "scene_id": "S165",
+      "family": "ladder",
+      "variant": "rope",
+      "mean_rgb_change": [
+        0.21354166666666666,
+        0.23039351851851853
+      ],
+      "static_flag": false
+    },
+    {
+      "scene_id": "S166",
+      "family": "station",
+      "variant": "professional",
+      "mean_rgb_change": [
+        0.43453703703703705,
+        0.41585648148148147
+      ],
+      "static_flag": false
+    },
+    {
+      "scene_id": "S167",
+      "family": "pump",
+      "variant": "later",
+      "mean_rgb_change": [
+        0.5794444444444444,
+        0.9660185185185185
+      ],
+      "static_flag": false
+    },
+    {
+      "scene_id": "S168",
+      "family": "tools",
+      "variant": "helmet",
+      "mean_rgb_change": [
+        0.11060185185185185,
+        0.13497685185185185
+      ],
+      "static_flag": false
+    },
+    {
+      "scene_id": "S169",
+      "family": "hazard",
+      "variant": "helmet",
+      "mean_rgb_change": [
+        3.865462962962963,
+        0.6060185185185185
+      ],
+      "static_flag": false
+    },
+    {
+      "scene_id": "S170",
+      "family": "tools",
+      "variant": "coat",
+      "mean_rgb_change": [
+        15.208935185185185,
+        15.199375
+      ],
+      "static_flag": false
+    },
+    {
+      "scene_id": "S171",
+      "family": "winter",
+      "variant": "cold",
+      "mean_rgb_change": [
+        1.2708101851851852,
+        0.6205092592592593
+      ],
+      "static_flag": false
+    },
+    {
+      "scene_id": "S172",
+      "family": "winter",
+      "variant": "slip",
+      "mean_rgb_change": [
+        1.9658333333333333,
+        2.0243055555555554
+      ],
+      "static_flag": false
+    },
+    {
+      "scene_id": "S173",
+      "family": "winter",
+      "variant": "heatcold",
+      "mean_rgb_change": [
+        0.4421527777777778,
+        0.5002314814814814
+      ],
+      "static_flag": false
+    },
+    {
+      "scene_id": "S174",
+      "family": "river",
+      "variant": "ice",
+      "mean_rgb_change": [
+        19.788587962962964,
+        20.242685185185184
+      ],
+      "static_flag": false
+    },
+    {
+      "scene_id": "S175",
+      "family": "river",
+      "variant": "chopice",
+      "mean_rgb_change": [
+        19.57064814814815,
+        19.05900462962963
+      ],
+      "static_flag": false
+    },
+    {
+      "scene_id": "S176",
+      "family": "winter",
+      "variant": "danger",
+      "mean_rgb_change": [
+        1.584375,
+        1.4143055555555555
+      ],
+      "static_flag": false
+    },
+    {
+      "scene_id": "S177",
+      "family": "river",
+      "variant": "snow",
+      "mean_rgb_change": [
+        21.162916666666668,
+        21.198541666666667
+      ],
+      "static_flag": false
+    },
+    {
+      "scene_id": "S178",
+      "family": "map",
+      "variant": "preparedwater",
+      "mean_rgb_change": [
+        0.05814814814814815,
+        0.03886574074074074
+      ],
+      "static_flag": false
+    },
+    {
+      "scene_id": "S179",
+      "family": "station",
+      "variant": "cost",
+      "mean_rgb_change": [
+        0.3262962962962963,
+        0.5525231481481482
+      ],
+      "static_flag": false
+    },
+    {
+      "scene_id": "S180",
+      "family": "station",
+      "variant": "maintenance",
+      "mean_rgb_change": [
+        0.19680555555555557,
+        0.4883564814814815
+      ],
+      "static_flag": false
+    },
+    {
+      "scene_id": "S181",
+      "family": "street",
+      "variant": "poor",
+      "mean_rgb_change": [
+        1.7594907407407407,
+        1.766412037037037
+      ],
+      "static_flag": false
+    },
+    {
+      "scene_id": "S182",
+      "family": "insurance",
+      "variant": "office",
+      "mean_rgb_change": [
+        15.930671296296296,
+        14.449861111111112
+      ],
+      "static_flag": false
+    },
+    {
+      "scene_id": "S183",
+      "family": "insurance",
+      "variant": "mark",
+      "mean_rgb_change": [
+        13.663564814814816,
+        13.046180555555555
+      ],
+      "static_flag": false
+    },
+    {
+      "scene_id": "S184",
+      "family": "map",
+      "variant": "insured",
+      "mean_rgb_change": [
+        0.0699074074074074,
+        0.0574537037037037
+      ],
+      "static_flag": false
+    },
+    {
+      "scene_id": "S185",
+      "family": "station",
+      "variant": "central",
+      "mean_rgb_change": [
+        0.30449074074074073,
+        0.4937037037037037
+      ],
+      "static_flag": false
+    },
+    {
+      "scene_id": "S186",
+      "family": "hydrant",
+      "variant": "section",
+      "mean_rgb_change": [
+        0.25800925925925927,
+        0.25377314814814816
+      ],
+      "static_flag": false
+    },
+    {
+      "scene_id": "S187",
+      "family": "storage",
+      "variant": "oldroute",
+      "mean_rgb_change": [
+        20.673171296296296,
+        20.237662037037037
+      ],
+      "static_flag": false
+    },
+    {
+      "scene_id": "S188",
+      "family": "hydrant",
+      "variant": "connect",
+      "mean_rgb_change": [
+        0.05243055555555556,
+        0.04435185185185185
+      ],
+      "static_flag": false
+    },
+    {
+      "scene_id": "S189",
+      "family": "pump",
+      "variant": "mainsupply",
+      "mean_rgb_change": [
+        1.052175925925926,
+        0.40125
+      ],
+      "static_flag": false
+    },
+    {
+      "scene_id": "S190",
+      "family": "hydrant",
+      "variant": "pressure",
+      "mean_rgb_change": [
+        0.46847222222222223,
+        0.44645833333333335
+      ],
+      "static_flag": false
+    },
+    {
+      "scene_id": "S191",
+      "family": "steam",
+      "variant": "introduce",
+      "mean_rgb_change": [
+        0.6114814814814815,
+        0.6457407407407407
+      ],
+      "static_flag": false
+    },
+    {
+      "scene_id": "S192",
+      "family": "pump",
+      "variant": "compare",
+      "mean_rgb_change": [
+        0.9413888888888889,
+        0.9356481481481481
+      ],
+      "static_flag": false
+    },
+    {
+      "scene_id": "S193",
+      "family": "steam",
+      "variant": "mechanism",
+      "mean_rgb_change": [
+        0.5634027777777778,
+        0.5927546296296297
+      ],
+      "static_flag": false
+    },
+    {
+      "scene_id": "S194",
+      "family": "steam",
+      "variant": "arrival",
+      "mean_rgb_change": [
+        7.838449074074074,
+        7.858912037037037
+      ],
+      "static_flag": false
+    },
+    {
+      "scene_id": "S195",
+      "family": "steam",
+      "variant": "pressure",
+      "mean_rgb_change": [
+        0.42819444444444443,
+        0.346875
+      ],
+      "static_flag": false
+    },
+    {
+      "scene_id": "S196",
+      "family": "modern",
+      "variant": "evolution",
+      "mean_rgb_change": [
+        2.7153703703703704,
+        2.9846064814814817
+      ],
+      "static_flag": false
+    },
+    {
+      "scene_id": "S197",
+      "family": "modern",
+      "variant": "early",
+      "mean_rgb_change": [
+        5.94974537037037,
+        5.084467592592593
+      ],
+      "static_flag": false
+    },
+    {
+      "scene_id": "S198",
+      "family": "modern",
+      "variant": "engine",
+      "mean_rgb_change": [
+        19.685717592592592,
+        20.07726851851852
+      ],
+      "static_flag": false
+    },
+    {
+      "scene_id": "S199",
+      "family": "tower",
+      "variant": "watch",
+      "mean_rgb_change": [
+        18.634027777777778,
+        18.079398148148147
+      ],
+      "static_flag": false
+    },
+    {
+      "scene_id": "S200",
+      "family": "pump",
+      "variant": "roles",
+      "mean_rgb_change": [
+        0.9055787037037037,
+        0.6687731481481481
+      ],
+      "static_flag": false
+    },
+    {
+      "scene_id": "S201",
+      "family": "demolition",
+      "variant": "roof",
+      "mean_rgb_change": [
+        0.3056712962962963,
+        0.31502314814814814
+      ],
+      "static_flag": false
+    },
+    {
+      "scene_id": "S202",
+      "family": "street",
+      "variant": "team",
+      "mean_rgb_change": [
+        3.5972685185185185,
+        2.3714583333333334
+      ],
+      "static_flag": false
+    },
+    {
+      "scene_id": "S203",
+      "family": "compare",
+      "variant": "water",
+      "mean_rgb_change": [
+        21.62821759259259,
+        21.166944444444443
+      ],
+      "static_flag": false
+    },
+    {
+      "scene_id": "S204",
+      "family": "compare",
+      "variant": "breathing",
+      "mean_rgb_change": [
+        20.348796296296296,
+        19.99252314814815
+      ],
+      "static_flag": false
+    },
+    {
+      "scene_id": "S205",
+      "family": "compare",
+      "variant": "tools",
+      "mean_rgb_change": [
+        0.22030092592592593,
+        0.2809259259259259
+      ],
+      "static_flag": false
+    },
+    {
+      "scene_id": "S206",
+      "family": "compare",
+      "variant": "transport",
+      "mean_rgb_change": [
+        5.626620370370371,
+        5.577222222222222
+      ],
+      "static_flag": false
+    },
+    {
+      "scene_id": "S207",
+      "family": "map",
+      "variant": "forestbreak",
+      "mean_rgb_change": [
+        0.051041666666666666,
+        0.04259259259259259
+      ],
+      "static_flag": false
+    },
+    {
+      "scene_id": "S208",
+      "family": "roof",
+      "variant": "protect",
+      "mean_rgb_change": [
+        0.33006944444444447,
+        0.3735648148148148
+      ],
+      "static_flag": false
+    },
+    {
+      "scene_id": "S209",
+      "family": "map",
+      "variant": "priorities",
+      "mean_rgb_change": [
+        0.053078703703703704,
+        0.056365740740740744
+      ],
+      "static_flag": false
+    },
+    {
+      "scene_id": "S210",
+      "family": "roof",
+      "variant": "fuel",
+      "mean_rgb_change": [
+        1.0267824074074074,
+        0.9823842592592592
+      ],
+      "static_flag": false
+    },
+    {
+      "scene_id": "S211",
+      "family": "map",
+      "variant": "predict",
+      "mean_rgb_change": [
+        0.03784722222222222,
+        0.04101851851851852
+      ],
+      "static_flag": false
+    },
+    {
+      "scene_id": "S212",
+      "family": "map",
+      "variant": "assets",
+      "mean_rgb_change": [
+        0.044189814814814814,
+        0.04400462962962963
+      ],
+      "static_flag": false
+    },
+    {
+      "scene_id": "S213",
+      "family": "map",
+      "variant": "windroute",
+      "mean_rgb_change": [
+        0.04456018518518518,
+        0.053842592592592595
+      ],
+      "static_flag": false
+    },
+    {
+      "scene_id": "S214",
+      "family": "map",
+      "variant": "consequence",
+      "mean_rgb_change": [
+        0.09682870370370371,
+        0.08282407407407408
+      ],
+      "static_flag": false
+    },
+    {
+      "scene_id": "S215",
+      "family": "street",
+      "variant": "aftermath",
+      "mean_rgb_change": [
+        1.092476851851852,
+        1.1191203703703703
+      ],
+      "static_flag": false
+    },
+    {
+      "scene_id": "S216",
+      "family": "street",
+      "variant": "rebuild",
+      "mean_rgb_change": [
+        21.04347222222222,
+        21.006805555555555
+      ],
+      "static_flag": false
+    },
+    {
+      "scene_id": "S217",
+      "family": "hydrant",
+      "variant": "planning",
+      "mean_rgb_change": [
+        0.11893518518518519,
+        0.17502314814814815
+      ],
+      "static_flag": false
+    },
+    {
+      "scene_id": "S218",
+      "family": "map",
+      "variant": "learn",
+      "mean_rgb_change": [
+        0.05483796296296296,
+        0.05236111111111111
+      ],
+      "static_flag": false
+    },
+    {
+      "scene_id": "S219",
+      "family": "map",
+      "variant": "weakness",
+      "mean_rgb_change": [
+        0.41856481481481483,
+        0.5399537037037037
+      ],
+      "static_flag": false
+    },
+    {
+      "scene_id": "S220",
+      "family": "station",
+      "variant": "improve",
+      "mean_rgb_change": [
+        0.3107638888888889,
+        0.08724537037037038
+      ],
+      "static_flag": false
+    },
+    {
+      "scene_id": "S221",
+      "family": "street",
+      "variant": "neighbor",
+      "mean_rgb_change": [
+        1.9583564814814816,
+        0.7072916666666667
+      ],
+      "static_flag": false
+    },
+    {
+      "scene_id": "S222",
+      "family": "street",
+      "variant": "discover",
+      "mean_rgb_change": [
+        0.026157407407407407,
+        0.026828703703703705
+      ],
+      "static_flag": false
+    },
+    {
+      "scene_id": "S223",
+      "family": "rescue",
+      "variant": "family",
+      "mean_rgb_change": [
+        1.3094907407407408,
+        1.5675925925925926
+      ],
+      "static_flag": false
+    },
+    {
+      "scene_id": "S224",
+      "family": "horse",
+      "variant": "rescue",
+      "mean_rgb_change": [
+        3.3091898148148147,
+        3.569236111111111
+      ],
+      "static_flag": false
+    },
+    {
+      "scene_id": "S225",
+      "family": "roof",
+      "variant": "intercept",
+      "mean_rgb_change": [
+        0.9696990740740741,
+        1.0007407407407407
+      ],
+      "static_flag": false
+    },
+    {
+      "scene_id": "S226",
+      "family": "bucket",
+      "variant": "pass",
+      "mean_rgb_change": [
+        1.418125,
+        1.3378472222222222
+      ],
+      "static_flag": false
+    },
+    {
+      "scene_id": "S227",
+      "family": "map",
+      "variant": "shared",
+      "mean_rgb_change": [
+        0.06525462962962963,
+        0.061550925925925926
+      ],
+      "static_flag": false
+    },
+    {
+      "scene_id": "S228",
+      "family": "street",
+      "variant": "mobilize",
+      "mean_rgb_change": [
+        2.830671296296296,
+        2.8072916666666665
+      ],
+      "static_flag": false
+    },
+    {
+      "scene_id": "S229",
+      "family": "storage",
+      "variant": "local",
+      "mean_rgb_change": [
+        21.235208333333333,
+        20.837685185185187
+      ],
+      "static_flag": false
+    },
+    {
+      "scene_id": "S230",
+      "family": "horse",
+      "variant": "departure",
+      "mean_rgb_change": [
+        6.483402777777778,
+        6.33949074074074
+      ],
+      "static_flag": false
+    },
+    {
+      "scene_id": "S231",
+      "family": "pump",
+      "variant": "roles",
+      "mean_rgb_change": [
+        0.7484722222222222,
+        0.7147916666666667
+      ],
+      "static_flag": false
+    },
+    {
+      "scene_id": "S232",
+      "family": "hazard",
+      "variant": "limits",
+      "mean_rgb_change": [
+        0.706412037037037,
+        0.6951388888888889
+      ],
+      "static_flag": false
+    },
+    {
+      "scene_id": "S233",
+      "family": "modern",
+      "variant": "passing",
+      "mean_rgb_change": [
+        5.354050925925926,
+        5.552106481481482
+      ],
+      "static_flag": false
+    },
+    {
+      "scene_id": "S234",
+      "family": "tower",
+      "variant": "bell",
+      "mean_rgb_change": [
+        0.18703703703703703,
+        0.02851851851851852
+      ],
+      "static_flag": false
+    },
+    {
+      "scene_id": "S235",
+      "family": "pump",
+      "variant": "rhythm",
+      "mean_rgb_change": [
+        0.9508796296296296,
+        0.9469907407407407
+      ],
+      "static_flag": false
+    },
+    {
+      "scene_id": "S236",
+      "family": "bucket",
+      "variant": "source",
+      "mean_rgb_change": [
+        1.1622685185185184,
+        1.764560185185185
+      ],
+      "static_flag": false
+    },
+    {
+      "scene_id": "S237",
+      "family": "tools",
+      "variant": "clothing",
+      "mean_rgb_change": [
+        15.239791666666667,
+        15.19414351851852
+      ],
+      "static_flag": false
+    },
+    {
+      "scene_id": "S238",
+      "family": "bucket",
+      "variant": "mobilize",
+      "mean_rgb_change": [
+        2.2535648148148146,
+        2.443935185185185
+      ],
+      "static_flag": false
+    },
+    {
+      "scene_id": "S239",
+      "family": "pump",
+      "variant": "organize",
+      "mean_rgb_change": [
+        0.7039120370370371,
+        2.4542129629629628
+      ],
+      "static_flag": false
+    },
+    {
+      "scene_id": "S240",
+      "family": "street",
+      "variant": "discover",
+      "mean_rgb_change": [
+        1.240763888888889,
+        1.5343981481481481
+      ],
+      "static_flag": false
+    },
+    {
+      "scene_id": "S241",
+      "family": "pump",
+      "variant": "supply",
+      "mean_rgb_change": [
+        0.8471759259259259,
+        0.7311574074074074
+      ],
+      "static_flag": false
+    },
+    {
+      "scene_id": "S242",
+      "family": "ladder",
+      "variant": "roofwater",
+      "mean_rgb_change": [
+        1.4294212962962962,
+        1.313125
+      ],
+      "static_flag": false
+    },
+    {
+      "scene_id": "S243",
+      "family": "roof",
+      "variant": "watch",
+      "mean_rgb_change": [
+        0.3088194444444444,
+        0.3003240740740741
+      ],
+      "static_flag": false
+    },
+    {
+      "scene_id": "S244",
+      "family": "map",
+      "variant": "system",
+      "mean_rgb_change": [
+        0.04780092592592593,
+        0.04527777777777778
+      ],
+      "static_flag": false
+    },
+    {
+      "scene_id": "S245",
+      "family": "station",
+      "variant": "improve",
+      "mean_rgb_change": [
+        0.38178240740740743,
+        0.038796296296296294
+      ],
+      "static_flag": false
+    },
+    {
+      "scene_id": "S246",
+      "family": "tools",
+      "variant": "bucket",
+      "mean_rgb_change": [
+        0.23837962962962964,
+        0.265
+      ],
+      "static_flag": false
+    },
+    {
+      "scene_id": "S247",
+      "family": "street",
+      "variant": "rebuild",
+      "mean_rgb_change": [
+        20.942060185185184,
+        20.968009259259258
+      ],
+      "static_flag": false
+    },
+    {
+      "scene_id": "S248",
+      "family": "tower",
+      "variant": "watch",
+      "mean_rgb_change": [
+        18.636412037037037,
+        18.063402777777778
+      ],
+      "static_flag": false
+    },
+    {
+      "scene_id": "S249",
+      "family": "hose",
+      "variant": "route",
+      "mean_rgb_change": [
+        0.9990740740740741,
+        1.0158101851851853
+      ],
+      "static_flag": false
+    },
+    {
+      "scene_id": "S250",
+      "family": "modern",
+      "variant": "engine",
+      "mean_rgb_change": [
+        19.663171296296298,
+        20.06449074074074
+      ],
+      "static_flag": false
+    },
+    {
+      "scene_id": "S251",
+      "family": "map",
+      "variant": "history",
+      "mean_rgb_change": [
+        0.055393518518518516,
+        0.05787037037037037
+      ],
+      "static_flag": false
+    },
+    {
+      "scene_id": "S252",
+      "family": "street",
+      "variant": "night",
+      "mean_rgb_change": [
+        1.1030092592592593,
+        1.0750231481481483
+      ],
+      "static_flag": false
+    },
+    {
+      "scene_id": "S253",
+      "family": "street",
+      "variant": "discover",
+      "mean_rgb_change": [
+        6.133055555555556,
+        0.7104861111111112
+      ],
+      "static_flag": false
+    },
+    {
+      "scene_id": "S254",
+      "family": "street",
+      "variant": "mobilize",
+      "mean_rgb_change": [
+        1.543564814814815,
+        0.40078703703703705
+      ],
+      "static_flag": false
+    },
+    {
+      "scene_id": "S255",
+      "family": "bucket",
+      "variant": "mobilize",
+      "mean_rgb_change": [
+        0.9662268518518519,
+        0.7792592592592592
+      ],
+      "static_flag": false
+    },
+    {
+      "scene_id": "S256",
+      "family": "bucket",
+      "variant": "final",
+      "mean_rgb_change": [
+        1.4408796296296296,
+        1.9043981481481482
+      ],
+      "static_flag": false
+    }
+  ]
+}

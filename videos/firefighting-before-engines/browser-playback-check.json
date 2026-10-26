@@ -1,0 +1,57 @@
+{
+  "metadata": {
+    "duration": 1697.436735,
+    "width": 1920,
+    "height": 1080,
+    "readyState": 4,
+    "error": null
+  },
+  "seeks": [
+    {
+      "currentTime": 1.54,
+      "readyState": 4,
+      "error": null
+    },
+    {
+      "currentTime": 206.3,
+      "readyState": 4,
+      "error": null
+    },
+    {
+      "currentTime": 350,
+      "readyState": 4,
+      "error": null
+    },
+    {
+      "currentTime": 585,
+      "readyState": 4,
+      "error": null
+    },
+    {
+      "currentTime": 885,
+      "readyState": 4,
+      "error": null
+    },
+    {
+      "currentTime": 979,
+      "readyState": 4,
+      "error": null
+    },
+    {
+      "currentTime": 1339,
+      "readyState": 4,
+      "error": null
+    },
+    {
+      "currentTime": 1696.8,
+      "readyState": 4,
+      "error": null
+    }
+  ],
+  "playback": {
+    "currentTime": 601.169092,
+    "frames": 1210,
+    "error": null
+  },
+  "method": "Browser Blob playback from the final local MP4; avoids an HTTP server without byte-range support."
+}

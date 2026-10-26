@@ -1,0 +1,309 @@
+{
+  "source_audio_duration_seconds": 1697.436735,
+  "final_video_duration_seconds": 1697.436735,
+  "final_video_timecode": "28:17.436735",
+  "resolution": "1920x1080",
+  "aspect_ratio": "16:9",
+  "nominal_frame_rate": 25,
+  "total_video_frames": 42436,
+  "final_frame_duration_seconds": 0.036735,
+  "total_scene_count": 256,
+  "narration_remained_unchanged": true,
+  "original_mp3_payload": {
+    "sha256": "5b404dc8dad77c08de809b5f1354188277d98f6a71cce07143f7e922bf8f7d24",
+    "packets": 64980
+  },
+  "final_mp3_payload": {
+    "sha256": "5b404dc8dad77c08de809b5f1354188277d98f6a71cce07143f7e922bf8f7d24",
+    "packets": 64980
+  },
+  "original_decoded_pcm_sha256": "SHA256=f998bcf9ba3e0175604d9d1db12015002fa817e491feea82c0731de5a60b2837",
+  "final_decoded_pcm_sha256": "SHA256=f998bcf9ba3e0175604d9d1db12015002fa817e491feea82c0731de5a60b2837",
+  "audio_reencoded": false,
+  "timeline_gaps": false,
+  "uncovered_narration_seconds": 0,
+  "black_intervals": [],
+  "full_file_decode_passed": true,
+  "scene_inspection_count": 256,
+  "javascript_errors": [],
+  "sampled_motion_static_flags": [],
+  "continuity_passed": true,
+  "continuity_review_scope": "Deterministic persistent sequence time and role identities; visual review of every scene midpoint plus start/mid/end samples for key mechanisms. Not a continuous real-time human watch or proof of every intermediate pose.",
+  "style_lock_passed": true,
+  "style_review_scope": "Polished illustrated 2D cartoon environment assets, rounded solid-body characters, no 3D or photorealistic humans; all scene compositions inspected. Artistic quality remains a reviewer judgment.",
+  "final_export_succeeded": true,
+  "heygen_used": false,
+  "production_engine": "Original Canvas2D animation, generated 2D background assets, FFmpeg/PyAV assembly",
+  "source_audio_sha256": "ace6676768923dc3d6727f14787a1a8ce8d840796122b89abc802f346a227050",
+  "final_video_sha256": "2ab462f1d5c38f7278a757b5a9e32eea9cdbbc7a9bcfab6dedf9aecf4e3d57a0",
+  "final_file_bytes": 102431462,
+  "alignment_method": "Russian GigaAM v2 CTC acoustic forced alignment, 40ms grid; not a manual sample-accurate phonetic review",
+  "alignment_limitations": "Acoustic timing uses a 40 ms model grid; script is not independently historically fact-checked; not manually verified at each phoneme.",
+  "browser_playback_passed": true,
+  "browser_playback_check": {
+    "metadata": {
+      "duration": 1697.436735,
+      "width": 1920,
+      "height": 1080,
+      "readyState": 4,
+      "error": null
+    },
+    "seeks": [
+      {
+        "currentTime": 1.54,
+        "readyState": 4,
+        "error": null
+      },
+      {
+        "currentTime": 206.3,
+        "readyState": 4,
+        "error": null
+      },
+      {
+        "currentTime": 350,
+        "readyState": 4,
+        "error": null
+      },
+      {
+        "currentTime": 585,
+        "readyState": 4,
+        "error": null
+      },
+      {
+        "currentTime": 885,
+        "readyState": 4,
+        "error": null
+      },
+      {
+        "currentTime": 979,
+        "readyState": 4,
+        "error": null
+      },
+      {
+        "currentTime": 1339,
+        "readyState": 4,
+        "error": null
+      },
+      {
+        "currentTime": 1696.8,
+        "readyState": 4,
+        "error": null
+      }
+    ],
+    "playback": {
+      "currentTime": 601.169092,
+      "frames": 1210,
+      "error": null
+    },
+    "method": "Browser Blob playback from the final local MP4; avoids an HTTP server without byte-range support."
+  },
+  "final_animation_source_sha256": "3e630c2a9472c19bad9d8b0bd8545dccb15a2550dc0bfabc062456aab6899832",
+  "base_render_animation_source_sha256": "697eb080a8c24003d38d516e73eccbd7de66b85426d4fbe61fb4a8a37642226b",
+  "connection_refinements": [
+    [
+      704,
+      1030,
+      [
+        "S008",
+        "S009"
+      ]
+    ],
+    [
+      1737,
+      1989,
+      [
+        "S014"
+      ]
+    ],
+    [
+      2100,
+      2353,
+      [
+        "S017"
+      ]
+    ],
+    [
+      2572,
+      2805,
+      [
+        "S020"
+      ]
+    ],
+    [
+      6709,
+      6939,
+      [
+        "S041"
+      ]
+    ],
+    [
+      8466,
+      9213,
+      [
+        "S055",
+        "S056",
+        "S057",
+        "S058"
+      ]
+    ],
+    [
+      9576,
+      10329,
+      [
+        "S061",
+        "S062"
+      ]
+    ],
+    [
+      14190,
+      14542,
+      [
+        "S089",
+        "S090"
+      ]
+    ],
+    [
+      14831,
+      15498,
+      [
+        "S092",
+        "S093",
+        "S094",
+        "S095"
+      ]
+    ],
+    [
+      16216,
+      16422,
+      [
+        "S101"
+      ]
+    ],
+    [
+      17337,
+      17455,
+      [
+        "S108"
+      ]
+    ],
+    [
+      22425,
+      22843,
+      [
+        "S138",
+        "S139"
+      ]
+    ],
+    [
+      24723,
+      24967,
+      [
+        "S149"
+      ]
+    ],
+    [
+      25346,
+      25599,
+      [
+        "S153"
+      ]
+    ],
+    [
+      25994,
+      26487,
+      [
+        "S156",
+        "S157",
+        "S158"
+      ]
+    ],
+    [
+      28136,
+      28251,
+      [
+        "S167"
+      ]
+    ],
+    [
+      28925,
+      29544,
+      [
+        "S171",
+        "S172",
+        "S173"
+      ]
+    ],
+    [
+      29804,
+      30294,
+      [
+        "S176"
+      ]
+    ],
+    [
+      30737,
+      30884,
+      [
+        "S180"
+      ]
+    ],
+    [
+      32666,
+      32908,
+      [
+        "S189"
+      ]
+    ],
+    [
+      33475,
+      35284,
+      [
+        "S195",
+        "S196",
+        "S197",
+        "S198",
+        "S200",
+        "S201",
+        "S203",
+        "S204",
+        "S205",
+        "S206"
+      ]
+    ],
+    [
+      39513,
+      40177,
+      [
+        "S231",
+        "S233"
+      ]
+    ],
+    [
+      40578,
+      41013,
+      [
+        "S239",
+        "S241"
+      ]
+    ],
+    [
+      41673,
+      41989,
+      [
+        "S249",
+        "S250"
+      ]
+    ],
+    [
+      42079,
+      42436,
+      [
+        "S252",
+        "S253",
+        "S254",
+        "S255",
+        "S256"
+      ]
+    ]
+  ]
+}

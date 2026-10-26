@@ -1,0 +1,80 @@
+[
+  {
+    "asset_id": "background:aftermath",
+    "file": "assets/backgrounds/aftermath.png",
+    "creation_method": "OpenAI image generation tool; original cartoon production background, not historical documentary photograph",
+    "sha256": "9e7a9c258a240839099ffa6dae36a33d6f85f78fecb717942a96d62a87ce58c3"
+  },
+  {
+    "asset_id": "background:alternate",
+    "file": "assets/backgrounds/alternate.png",
+    "creation_method": "OpenAI image generation tool; original cartoon production background, not historical documentary photograph",
+    "sha256": "08951221b209d1e778341f005447b0ac0fba7e805fadcbae7e8372fbf1b1045e"
+  },
+  {
+    "asset_id": "background:ancient",
+    "file": "assets/backgrounds/ancient.png",
+    "creation_method": "OpenAI image generation tool; original cartoon production background, not historical documentary photograph",
+    "sha256": "8368c19a52d7466dbd29dbd5c895a4e8a3db37e56cf042402456db78881ab827"
+  },
+  {
+    "asset_id": "background:day",
+    "file": "assets/backgrounds/day.png",
+    "creation_method": "OpenAI image generation tool; original cartoon production background, not historical documentary photograph",
+    "sha256": "eeffa3430721fd062823e44a4aa32d3cb77b42d28e599c1fe73efff11a601d7c"
+  },
+  {
+    "asset_id": "background:map",
+    "file": "assets/backgrounds/map.png",
+    "creation_method": "OpenAI image generation tool; original cartoon production background, not historical documentary photograph",
+    "sha256": "33806f8108696572a3717decc0f107f81dd61c2c887d5476f768b56200876e00"
+  },
+  {
+    "asset_id": "background:modern",
+    "file": "assets/backgrounds/modern.png",
+    "creation_method": "OpenAI image generation tool; original cartoon production background, not historical documentary photograph",
+    "sha256": "f5338d300af58544c76b3129508c985aa87f8d42ab5b025e33836e61cb2a9569"
+  },
+  {
+    "asset_id": "background:night",
+    "file": "assets/backgrounds/night.png",
+    "creation_method": "OpenAI image generation tool; original cartoon production background, not historical documentary photograph",
+    "sha256": "b83ebb539b6042ab3faefc523089d09ff166ce471ede91fd3eaf11cff4596c27"
+  },
+  {
+    "asset_id": "background:river",
+    "file": "assets/backgrounds/river.png",
+    "creation_method": "OpenAI image generation tool; original cartoon production background, not historical documentary photograph",
+    "sha256": "be2fbce52d91dd8b845f44e15b60b0347cc72d78d36d608bfc9d0f3515515e77"
+  },
+  {
+    "asset_id": "background:stable",
+    "file": "assets/backgrounds/stable.png",
+    "creation_method": "OpenAI image generation tool; original cartoon production background, not historical documentary photograph",
+    "sha256": "3bd05ffc7dda494343f180ebc10f604931cf95dbda6d6cbf386f815f7b05e13d"
+  },
+  {
+    "asset_id": "background:station",
+    "file": "assets/backgrounds/station.png",
+    "creation_method": "OpenAI image generation tool; original cartoon production background, not historical documentary photograph",
+    "sha256": "0c592a93f526af9225097055133bee78eec73919137623135804b7a8a0122124"
+  },
+  {
+    "asset_id": "background:tower",
+    "file": "assets/backgrounds/tower.png",
+    "creation_method": "OpenAI image generation tool; original cartoon production background, not historical documentary photograph",
+    "sha256": "5bc4afa75bf4eef25bd55178c0d6640ea665233498cca2054cb00777a8483fd9"
+  },
+  {
+    "asset_id": "background:winter",
+    "file": "assets/backgrounds/winter.png",
+    "creation_method": "OpenAI image generation tool; original cartoon production background, not historical documentary photograph",
+    "sha256": "919a8179695d81f7f4df56cc4b6aebda6196d0d0bcc7f790afb07fb8d2803ede"
+  },
+  {
+    "asset_id": "background:workshop",
+    "file": "assets/backgrounds/workshop.png",
+    "creation_method": "OpenAI image generation tool; original cartoon production background, not historical documentary photograph",
+    "sha256": "4e7dc7af2858c8dd8b7c035a4e51d4e98ed474997847a2126d7a119a64b6db40"
+  }
+]
