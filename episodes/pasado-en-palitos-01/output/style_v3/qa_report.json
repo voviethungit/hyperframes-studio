@@ -1,0 +1,18 @@
+{
+  "duration": 18.3,
+  "width": 1920,
+  "height": 1080,
+  "fps": "30/1",
+  "frames": 549,
+  "video_codec": "h264",
+  "source_excerpt": [
+    0,
+    18.3
+  ],
+  "image_generation_calls": 3,
+  "tts_calls": 0,
+  "full_episode_replaced": false,
+  "decode_exit": 0,
+  "voice_correlation": 0.9999236072538041,
+  "voice_gain": 0.8490960001945496
+}

@@ -2,3 +2,4 @@
 output/*.mp4 filter=lfs diff=lfs merge=lfs -text
 output/*.zip filter=lfs diff=lfs merge=lfs -text
 output/style_v2/*.mp4 filter=lfs diff=lfs merge=lfs -text
+output/style_v3/*.mp4 filter=lfs diff=lfs merge=lfs -text
