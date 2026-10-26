@@ -4,6 +4,16 @@
 
 Bản dựng kỹ thuật dài **21:49,600**, H.264/AAC, 1920×1080, 30 fps. Hoạt hình on twos: 15 tư thế/giây. Bản thu gốc giữ nguyên nội dung, thứ tự và tốc độ; bản mix dùng gain 0,85. Không TTS, không HeyGen.
 
+## Bản thử phong cách v2
+
+Đã dựng lại **82,667 giây mở đầu** theo hướng nét vẽ tay, màu ấm, bối cảnh có phối cảnh và thẻ giải thích nền trắng. Đây là bản thử phong cách; chưa thay bản toàn tập cũ.
+
+- [Video mẫu v2](output/style_v2/preview_style_v2.mp4)
+- [Bảng khung hình v2](output/style_v2/contact_sheet.jpg)
+- [Phân tích phong cách](output/style_v2/style_notes_vi.md)
+
+Giọng thu gốc được giữ nguyên nội dung và tốc độ. Nguồn dựng: `work/style-v2/`; chạy `python work/style-v2/build.py` để tái tạo. Không đưa hình ảnh hoặc âm thanh của demo3 vào video mới.
+
 ## Tải thành phẩm
 
 Các tệp lớn được lưu bằng **Git LFS** trong thư mục `output/`:
