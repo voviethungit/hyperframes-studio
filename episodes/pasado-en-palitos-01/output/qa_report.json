@@ -1,0 +1,742 @@
+{
+  "source": {
+    "streams": [
+      {
+        "index": 0,
+        "codec_name": "mp3",
+        "codec_long_name": "MP3 (MPEG audio layer 3)",
+        "codec_type": "audio",
+        "codec_tag_string": "[0][0][0][0]",
+        "codec_tag": "0x0000",
+        "sample_fmt": "fltp",
+        "sample_rate": "44100",
+        "channels": 1,
+        "channel_layout": "mono",
+        "bits_per_sample": 0,
+        "initial_padding": 0,
+        "r_frame_rate": "0/0",
+        "avg_frame_rate": "0/0",
+        "time_base": "1/14112000",
+        "start_pts": 169280,
+        "start_time": "0.011995",
+        "duration_ts": 18481029120,
+        "duration": "1309.596735",
+        "bit_rate": "128000",
+        "disposition": {
+          "default": 0,
+          "dub": 0,
+          "original": 0,
+          "comment": 0,
+          "lyrics": 0,
+          "karaoke": 0,
+          "forced": 0,
+          "hearing_impaired": 0,
+          "visual_impaired": 0,
+          "clean_effects": 0,
+          "attached_pic": 0,
+          "timed_thumbnails": 0,
+          "non_diegetic": 0,
+          "captions": 0,
+          "descriptions": 0,
+          "metadata": 0,
+          "dependent": 0,
+          "still_image": 0,
+          "multilayer": 0
+        }
+      }
+    ],
+    "format": {
+      "filename": "cuidado_ab.mp3",
+      "nb_streams": 1,
+      "nb_programs": 0,
+      "nb_stream_groups": 0,
+      "format_name": "mp3",
+      "format_long_name": "MP2/3 (MPEG audio layer 2/3)",
+      "start_time": "0.011995",
+      "duration": "1309.596735",
+      "size": "20953999",
+      "bit_rate": "128002",
+      "probe_score": 51,
+      "tags": {
+        "encoder": "Lavf60.16.100"
+      }
+    }
+  },
+  "output": {
+    "streams": [
+      {
+        "index": 0,
+        "codec_name": "h264",
+        "codec_long_name": "H.264 / AVC / MPEG-4 AVC / MPEG-4 part 10",
+        "profile": "Constrained Baseline",
+        "codec_type": "video",
+        "codec_tag_string": "avc1",
+        "codec_tag": "0x31637661",
+        "width": 1920,
+        "height": 1080,
+        "coded_width": 1920,
+        "coded_height": 1080,
+        "closed_captions": 0,
+        "film_grain": 0,
+        "has_b_frames": 0,
+        "pix_fmt": "yuv420p",
+        "level": 40,
+        "chroma_location": "left",
+        "field_order": "progressive",
+        "refs": 1,
+        "is_avc": "true",
+        "nal_length_size": "4",
+        "id": "0x1",
+        "r_frame_rate": "30/1",
+        "avg_frame_rate": "30/1",
+        "time_base": "1/15360",
+        "start_pts": 0,
+        "start_time": "0.000000",
+        "duration_ts": 20115456,
+        "duration": "1309.600000",
+        "bit_rate": "758810",
+        "bits_per_raw_sample": "8",
+        "nb_frames": "39288",
+        "extradata_size": 39,
+        "disposition": {
+          "default": 1,
+          "dub": 0,
+          "original": 0,
+          "comment": 0,
+          "lyrics": 0,
+          "karaoke": 0,
+          "forced": 0,
+          "hearing_impaired": 0,
+          "visual_impaired": 0,
+          "clean_effects": 0,
+          "attached_pic": 0,
+          "timed_thumbnails": 0,
+          "non_diegetic": 0,
+          "captions": 0,
+          "descriptions": 0,
+          "metadata": 0,
+          "dependent": 0,
+          "still_image": 0,
+          "multilayer": 0
+        },
+        "tags": {
+          "language": "und",
+          "handler_name": "VideoHandler",
+          "vendor_id": "[0][0][0][0]",
+          "encoder": "Lavc61.19.101 libx264"
+        }
+      },
+      {
+        "index": 1,
+        "codec_name": "aac",
+        "codec_long_name": "AAC (Advanced Audio Coding)",
+        "profile": "LC",
+        "codec_type": "audio",
+        "codec_tag_string": "mp4a",
+        "codec_tag": "0x6134706d",
+        "sample_fmt": "fltp",
+        "sample_rate": "44100",
+        "channels": 1,
+        "channel_layout": "mono",
+        "bits_per_sample": 0,
+        "initial_padding": 0,
+        "id": "0x2",
+        "r_frame_rate": "0/0",
+        "avg_frame_rate": "0/0",
+        "time_base": "1/44100",
+        "start_pts": 0,
+        "start_time": "0.000000",
+        "duration_ts": 57752654,
+        "duration": "1309.583991",
+        "bit_rate": "175372",
+        "nb_frames": "56401",
+        "extradata_size": 5,
+        "disposition": {
+          "default": 1,
+          "dub": 0,
+          "original": 0,
+          "comment": 0,
+          "lyrics": 0,
+          "karaoke": 0,
+          "forced": 0,
+          "hearing_impaired": 0,
+          "visual_impaired": 0,
+          "clean_effects": 0,
+          "attached_pic": 0,
+          "timed_thumbnails": 0,
+          "non_diegetic": 0,
+          "captions": 0,
+          "descriptions": 0,
+          "metadata": 0,
+          "dependent": 0,
+          "still_image": 0,
+          "multilayer": 0
+        },
+        "tags": {
+          "language": "und",
+          "handler_name": "SoundHandler",
+          "vendor_id": "[0][0][0][0]"
+        }
+      }
+    ],
+    "format": {
+      "filename": "output/pasado_en_palitos_01.mp4",
+      "nb_streams": 2,
+      "nb_programs": 0,
+      "nb_stream_groups": 0,
+      "format_name": "mov,mp4,m4a,3gp,3g2,mj2",
+      "format_long_name": "QuickTime / MOV",
+      "start_time": "0.000000",
+      "duration": "1309.600000",
+      "size": "154035676",
+      "bit_rate": "940963",
+      "probe_score": 100,
+      "tags": {
+        "major_brand": "isom",
+        "minor_version": "512",
+        "compatible_brands": "isomiso2avc1mp41",
+        "encoder": "Lavf61.7.103"
+      }
+    }
+  },
+  "checks": {
+    "resolution": true,
+    "fps": true,
+    "codec": true,
+    "duration_difference": 0.003264999999828433,
+    "expected_frames": 39288,
+    "reported_frames": 39288
+  },
+  "frame_samples": [
+    {
+      "time": 0.1,
+      "section": "cow",
+      "mean": 133.7052366255144,
+      "std": 53.92023198227357,
+      "black": false
+    },
+    {
+      "time": 14.899999999999999,
+      "section": "cow",
+      "mean": 134.49606995884773,
+      "std": 54.00021557253155,
+      "black": false
+    },
+    {
+      "time": 29.65,
+      "section": "cow",
+      "mean": 134.51823302469137,
+      "std": 53.998917235612595,
+      "black": false
+    },
+    {
+      "time": 29.9,
+      "section": "village",
+      "mean": 161.6997427983539,
+      "std": 53.45803876284708,
+      "black": false
+    },
+    {
+      "time": 48.089999999999996,
+      "section": "village",
+      "mean": 161.68244598765432,
+      "std": 53.43667014839163,
+      "black": false
+    },
+    {
+      "time": 66.22999999999999,
+      "section": "village",
+      "mean": 161.66998456790122,
+      "std": 53.426255897624394,
+      "black": false
+    },
+    {
+      "time": 66.47999999999999,
+      "section": "reveal",
+      "mean": 157.20198302469134,
+      "std": 55.891116475724516,
+      "black": false
+    },
+    {
+      "time": 79.49000000000001,
+      "section": "reveal",
+      "mean": 157.20085905349794,
+      "std": 55.888603105471844,
+      "black": false
+    },
+    {
+      "time": 92.45,
+      "section": "reveal",
+      "mean": 157.2096322016461,
+      "std": 55.881558612124266,
+      "black": false
+    },
+    {
+      "time": 92.7,
+      "section": "village",
+      "mean": 161.77788580246914,
+      "std": 53.422490935103724,
+      "black": false
+    },
+    {
+      "time": 109.65,
+      "section": "village",
+      "mean": 161.7163091563786,
+      "std": 53.40967515982553,
+      "black": false
+    },
+    {
+      "time": 126.55,
+      "section": "village",
+      "mean": 161.697829218107,
+      "std": 53.40121730532926,
+      "black": false
+    },
+    {
+      "time": 126.8,
+      "section": "breakfast",
+      "mean": 115.07925154320988,
+      "std": 45.25047395967931,
+      "black": false
+    },
+    {
+      "time": 179.76,
+      "section": "breakfast",
+      "mean": 132.73883487654322,
+      "std": 63.58615821500558,
+      "black": false
+    },
+    {
+      "time": 232.67,
+      "section": "breakfast",
+      "mean": 115.15668724279836,
+      "std": 45.196355858108745,
+      "black": false
+    },
+    {
+      "time": 232.92,
+      "section": "field",
+      "mean": 163.33875257201646,
+      "std": 49.8184861371295,
+      "black": false
+    },
+    {
+      "time": 274.43,
+      "section": "field",
+      "mean": 163.34733024691357,
+      "std": 49.83351841053198,
+      "black": false
+    },
+    {
+      "time": 315.89000000000004,
+      "section": "field",
+      "mean": 163.3708024691358,
+      "std": 49.81373660241033,
+      "black": false
+    },
+    {
+      "time": 316.14000000000004,
+      "section": "sickle",
+      "mean": 163.4573816872428,
+      "std": 49.73512929452171,
+      "black": false
+    },
+    {
+      "time": 338.71000000000004,
+      "section": "sickle",
+      "mean": 163.47006430041154,
+      "std": 49.72886701871461,
+      "black": false
+    },
+    {
+      "time": 361.2300000000001,
+      "section": "sickle",
+      "mean": 163.36573559670782,
+      "std": 49.79291945656812,
+      "black": false
+    },
+    {
+      "time": 361.4800000000001,
+      "section": "field",
+      "mean": 163.4405272633745,
+      "std": 49.68244614311121,
+      "black": false
+    },
+    {
+      "time": 372.47,
+      "section": "field",
+      "mean": 163.40338220164608,
+      "std": 49.769261386852136,
+      "black": false
+    },
+    {
+      "time": 383.4100000000001,
+      "section": "field",
+      "mean": 163.41325102880657,
+      "std": 49.77579774838797,
+      "black": false
+    },
+    {
+      "time": 383.6600000000001,
+      "section": "official",
+      "mean": 169.07089248971192,
+      "std": 49.89720959313084,
+      "black": false
+    },
+    {
+      "time": 435.83000000000004,
+      "section": "official",
+      "mean": 169.18765432098766,
+      "std": 49.79081934659851,
+      "black": false
+    },
+    {
+      "time": 487.95000000000005,
+      "section": "official",
+      "mean": 169.38480709876544,
+      "std": 49.428353625405514,
+      "black": false
+    },
+    {
+      "time": 488.20000000000005,
+      "section": "field",
+      "mean": 163.52357767489713,
+      "std": 49.67979795401429,
+      "black": false
+    },
+    {
+      "time": 510.75,
+      "section": "field",
+      "mean": 163.4840534979424,
+      "std": 49.71883376442228,
+      "black": false
+    },
+    {
+      "time": 533.25,
+      "section": "field",
+      "mean": 163.49087705761318,
+      "std": 49.71175995973745,
+      "black": false
+    },
+    {
+      "time": 533.5,
+      "section": "bundle",
+      "mean": 170.55840020576133,
+      "std": 48.52264362495348,
+      "black": false
+    },
+    {
+      "time": 544.64,
+      "section": "bundle",
+      "mean": 170.54894290123457,
+      "std": 48.53287605629943,
+      "black": false
+    },
+    {
+      "time": 555.73,
+      "section": "bundle",
+      "mean": 170.55543724279835,
+      "std": 48.52697467761942,
+      "black": false
+    },
+    {
+      "time": 555.98,
+      "section": "water",
+      "mean": 159.36647119341563,
+      "std": 55.334213414243436,
+      "black": false
+    },
+    {
+      "time": 593.73,
+      "section": "water",
+      "mean": 166.40353137860083,
+      "std": 60.672088130929076,
+      "black": false
+    },
+    {
+      "time": 631.4300000000001,
+      "section": "water",
+      "mean": 159.4050540123457,
+      "std": 55.30705164440496,
+      "black": false
+    },
+    {
+      "time": 631.6800000000001,
+      "section": "breakfast",
+      "mean": 115.36450360082304,
+      "std": 45.20270525683734,
+      "black": false
+    },
+    {
+      "time": 642.72,
+      "section": "breakfast",
+      "mean": 115.40585648148148,
+      "std": 45.176631402285885,
+      "black": false
+    },
+    {
+      "time": 653.71,
+      "section": "breakfast",
+      "mean": 115.41487911522634,
+      "std": 45.17331812113026,
+      "black": false
+    },
+    {
+      "time": 653.96,
+      "section": "storm",
+      "mean": 141.19956790123456,
+      "std": 37.20667368478024,
+      "black": false
+    },
+    {
+      "time": 697.5699999999999,
+      "section": "storm",
+      "mean": 141.21338734567902,
+      "std": 37.22314901136369,
+      "black": false
+    },
+    {
+      "time": 741.13,
+      "section": "storm",
+      "mean": 141.53090534979424,
+      "std": 37.27140975585136,
+      "black": false
+    },
+    {
+      "time": 741.38,
+      "section": "mud",
+      "mean": 141.88109053497942,
+      "std": 36.87618208252548,
+      "black": false
+    },
+    {
+      "time": 763.41,
+      "section": "mud",
+      "mean": 141.9257561728395,
+      "std": 36.895791441921034,
+      "black": false
+    },
+    {
+      "time": 785.39,
+      "section": "mud",
+      "mean": 141.95493827160493,
+      "std": 36.88607337113895,
+      "black": false
+    },
+    {
+      "time": 785.64,
+      "section": "cart",
+      "mean": 140.4465920781893,
+      "std": 37.74257888330648,
+      "black": false
+    },
+    {
+      "time": 809.74,
+      "section": "cart",
+      "mean": 140.470591563786,
+      "std": 37.72006797644981,
+      "black": false
+    },
+    {
+      "time": 833.79,
+      "section": "cart",
+      "mean": 140.50510802469137,
+      "std": 37.68556357948154,
+      "black": false
+    },
+    {
+      "time": 834.04,
+      "section": "bundle",
+      "mean": 170.7514274691358,
+      "std": 48.32885200882738,
+      "black": false
+    },
+    {
+      "time": 848.01,
+      "section": "bundle",
+      "mean": 170.74695730452675,
+      "std": 48.33262020281942,
+      "black": false
+    },
+    {
+      "time": 861.9300000000001,
+      "section": "bundle",
+      "mean": 170.73582047325104,
+      "std": 48.342318458372816,
+      "black": false
+    },
+    {
+      "time": 862.1800000000001,
+      "section": "walk",
+      "mean": 162.23611882716048,
+      "std": 53.06144059331344,
+      "black": false
+    },
+    {
+      "time": 886.49,
+      "section": "walk",
+      "mean": 162.18152263374486,
+      "std": 53.05161515468774,
+      "black": false
+    },
+    {
+      "time": 910.75,
+      "section": "walk",
+      "mean": 162.16989197530864,
+      "std": 53.0410583731343,
+      "black": false
+    },
+    {
+      "time": 911.0,
+      "section": "stores",
+      "mean": 170.23439300411522,
+      "std": 48.88818021626386,
+      "black": false
+    },
+    {
+      "time": 934.19,
+      "section": "stores",
+      "mean": 170.13126028806585,
+      "std": 49.94165240780859,
+      "black": false
+    },
+    {
+      "time": 957.33,
+      "section": "stores",
+      "mean": 170.13849794238683,
+      "std": 49.93505200901467,
+      "black": false
+    },
+    {
+      "time": 957.58,
+      "section": "dinner",
+      "mean": 115.44431069958847,
+      "std": 46.043161285591104,
+      "black": false
+    },
+    {
+      "time": 1021.36,
+      "section": "dinner",
+      "mean": 115.53504886831276,
+      "std": 46.01758756386768,
+      "black": false
+    },
+    {
+      "time": 1085.09,
+      "section": "dinner",
+      "mean": 115.58970936213991,
+      "std": 46.069455164392004,
+      "black": false
+    },
+    {
+      "time": 1085.34,
+      "section": "sleep",
+      "mean": 118.28868312757201,
+      "std": 45.83160979379339,
+      "black": false
+    },
+    {
+      "time": 1111.85,
+      "section": "sleep",
+      "mean": 118.34350823045267,
+      "std": 45.79038684937894,
+      "black": false
+    },
+    {
+      "time": 1138.31,
+      "section": "sleep",
+      "mean": 118.28403549382716,
+      "std": 45.772640176812416,
+      "black": false
+    },
+    {
+      "time": 1138.56,
+      "section": "morning",
+      "mean": 161.99288323045266,
+      "std": 53.568000977006584,
+      "black": false
+    },
+    {
+      "time": 1199.7,
+      "section": "morning",
+      "mean": 162.01678240740742,
+      "std": 53.555495559911265,
+      "black": false
+    },
+    {
+      "time": 1260.79,
+      "section": "morning",
+      "mean": 162.0523353909465,
+      "std": 53.526774219375085,
+      "black": false
+    },
+    {
+      "time": 1261.04,
+      "section": "final",
+      "mean": 162.00684670781894,
+      "std": 53.59872184071168,
+      "black": false
+    },
+    {
+      "time": 1285.2683675,
+      "section": "final",
+      "mean": 162.01739711934155,
+      "std": 53.58934672221617,
+      "black": false
+    },
+    {
+      "time": 1309.446735,
+      "section": "final",
+      "mean": 162.02713477366254,
+      "std": 53.58635303704717,
+      "black": false
+    }
+  ],
+  "audio_compare": {
+    "sample_rate": 16000,
+    "source_samples": 20953356,
+    "output_samples": 20953687,
+    "gain": 0.8490586280822754,
+    "correlation": 0.9999681222300648,
+    "method": "sample-by-sample decoded correlation; AAC loss expected",
+    "no_stretch_or_edit_in_pipeline": true
+  },
+  "full_decode": {
+    "exit_code": 0,
+    "frames": 39288,
+    "black_intervals": [],
+    "decoder_errors": false
+  },
+  "audio_peak_dbfs": -0.532939,
+  "audio_rms_dbfs": -22.463758,
+  "source_mp3_unchanged": true,
+  "browser_playback": {
+    "duration": 1309.6,
+    "width": 1920,
+    "height": 1080,
+    "tests": [
+      {
+        "target": 0,
+        "start": 0,
+        "end": 0.795728,
+        "advanced": true,
+        "error": null
+      },
+      {
+        "target": 654.8,
+        "start": 654.813194,
+        "end": 655.973562,
+        "advanced": true,
+        "error": null
+      },
+      {
+        "target": 1306.6,
+        "start": 1306.603692,
+        "end": 1307.764033,
+        "advanced": true,
+        "error": null
+      }
+    ]
+  },
+  "browser_playback_passed": true
+}

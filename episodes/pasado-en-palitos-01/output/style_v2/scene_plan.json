@@ -1,0 +1,154 @@
+{
+  "status": "style pilot, not full episode",
+  "duration": 82.66666666666667,
+  "fps": 30,
+  "width": 1920,
+  "height": 1080,
+  "source_audio": "cuidado_ab.mp3",
+  "source_excerpt": [
+    0,
+    82.66666666666667
+  ],
+  "source_sha256": "5bd242aa4fb6042318c251f30bb8cb884b69c8d15050d7ee17bad068415b2649",
+  "timing_method": "existing measured Whisper phrase onsets; animation anticipation may precede phrase by less than 0.3 s",
+  "shots": [
+    {
+      "start": 0,
+      "end": 5.88,
+      "visual": "Mở mắt dưới móng bò",
+      "spoken_text": "Cuidado, abres los ojos y ves una enorme vaca a punto de pisarte la cabeza."
+    },
+    {
+      "start": 5.88,
+      "end": 9.03,
+      "visual": "Lăn trái, thu tay chân",
+      "spoken_text": "Ruedas desesperadamente hacia un lado."
+    },
+    {
+      "start": 9.03,
+      "end": 9.32,
+      "visual": "Cận móng bò, chuẩn bị va chạm",
+      "spoken_text": "Ruedas desesperadamente hacia un lado."
+    },
+    {
+      "start": 9.32,
+      "end": 13.32,
+      "visual": "Móng đập xuống chỗ đầu vừa nằm",
+      "spoken_text": "Pum, su pesuña cae exactamente donde estaba tu cara."
+    },
+    {
+      "start": 13.32,
+      "end": 18.36,
+      "visual": "Đứng dậy và ôm ngực",
+      "spoken_text": "Televántas de golpe, con el corazón latiendo como si acabaras de correr una maratón."
+    },
+    {
+      "start": 18.36,
+      "end": 21.2,
+      "visual": "Thẻ nền trắng: giường, điện thoại, nhà",
+      "spoken_text": "¿Dónde está tu cama? ¿Tú teléfono? ¿Tú casa?"
+    },
+    {
+      "start": 21.2,
+      "end": 24.96,
+      "visual": "Cận đạo cụ: rơm, bùn và động vật",
+      "spoken_text": "Nada, sólo hay paja, barro, animales,"
+    },
+    {
+      "start": 24.96,
+      "end": 29.8,
+      "visual": "Bịt mũi và quạt mùi",
+      "spoken_text": "y un olor que parece capaz de destruir cualquier forma de vida moderna. Sal es corriendo del establo, y entonces lo ves."
+    },
+    {
+      "start": 29.8,
+      "end": 34.24,
+      "visual": "Chạy ra khỏi chuồng",
+      "spoken_text": "Sal es corriendo del establo, y entonces lo ves."
+    },
+    {
+      "start": 34.24,
+      "end": 40,
+      "visual": "Toàn cảnh làng, chuyển sang trung cảnh",
+      "spoken_text": "Casas de madera, techos de paja, campesinos caminando con herramientas."
+    },
+    {
+      "start": 40,
+      "end": 42,
+      "visual": "Cận minh họa lâu đài phía xa",
+      "spoken_text": "Un castillo a los lejos,"
+    },
+    {
+      "start": 42,
+      "end": 45.72,
+      "visual": "Người đẩy xe tiến vào từ bên phải",
+      "spoken_text": "un hombre pasa frente a ti empujando un carro de madera,"
+    },
+    {
+      "start": 45.72,
+      "end": 48.36,
+      "visual": "Ra hiệu dừng xe",
+      "spoken_text": "lo detienes para preguntarle dónde estás,"
+    },
+    {
+      "start": 48.36,
+      "end": 57.2,
+      "visual": "Trao đổi không hiểu nhau, bong bóng nét nguệch ngoạc",
+      "spoken_text": "pero cuando comienza a hablar, apenas entiende sus palabras. Su forma de hablar no se parece demasiado al inglés que conoces."
+    },
+    {
+      "start": 57.2,
+      "end": 63.6,
+      "visual": "Phản ứng bối rối của hai người",
+      "spoken_text": "El hombre te observa como si hubieras perdido completamente la cabeza, y quizás tenga razón,"
+    },
+    {
+      "start": 63.6,
+      "end": 66.38,
+      "visual": "Cận cảnh nhận ra điều bất thường",
+      "spoken_text": "porque acabas de descubrir algo terrible."
+    },
+    {
+      "start": 66.38,
+      "end": 68.82,
+      "visual": "Thẻ giải thích nước Anh",
+      "spoken_text": "Haz viajado a la Inglaterra Medieval."
+    },
+    {
+      "start": 68.82,
+      "end": 71.7,
+      "visual": "Hiện năm 1290 đúng câu",
+      "spoken_text": "Estamos en el año 1290. No tienes dinero."
+    },
+    {
+      "start": 71.7,
+      "end": 72.94,
+      "visual": "Túi rỗng: không tiền",
+      "spoken_text": "No tienes dinero."
+    },
+    {
+      "start": 72.94,
+      "end": 74.42,
+      "visual": "Một mình, không quen ai",
+      "spoken_text": "No conoces a nadie. Y, por alguna razón, tu teléfono ha desaparecido."
+    },
+    {
+      "start": 74.42,
+      "end": 78.22,
+      "visual": "Thẻ điện thoại đã biến mất",
+      "spoken_text": "Y, por alguna razón, tu teléfono ha desaparecido."
+    },
+    {
+      "start": 78.22,
+      "end": 79.9,
+      "visual": "Thẻ vấn đề sinh tồn",
+      "spoken_text": "Tienes un pequeño problema. Necesitas sobrevivir 24 horas."
+    },
+    {
+      "start": 79.9,
+      "end": 82.66666666666667,
+      "visual": "Thử thách 24 giờ",
+      "spoken_text": "Necesitas sobrevivir 24 horas. Y aunque las películas te hayan enseñado a temer a los caballeros,"
+    }
+  ]
+}

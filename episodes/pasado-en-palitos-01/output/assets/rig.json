@@ -1,0 +1,31 @@
+{
+  "hero_id": "hero-01",
+  "joints": {
+    "neck": [
+      0,
+      -155
+    ],
+    "hip": [
+      0,
+      -75
+    ],
+    "head": [
+      0,
+      -211
+    ]
+  },
+  "layer_ids": [
+    "torso",
+    "left-arm",
+    "right-arm",
+    "left-leg",
+    "right-leg",
+    "head",
+    "hair",
+    "eyes",
+    "brows",
+    "mouth",
+    "scarf"
+  ],
+  "wardrobe": "golden scarf, black side-part 70/30"
+}

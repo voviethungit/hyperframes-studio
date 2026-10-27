@@ -1,0 +1,7 @@
+{
+  "heygen_key_present": false,
+  "heygen_jobs": 0,
+  "tts_calls": 0,
+  "paid_generation_cost": 0,
+  "reason": "No configured paid budget; deterministic rendering used"
+}
