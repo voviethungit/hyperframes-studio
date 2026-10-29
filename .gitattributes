@@ -1,1 +1,2 @@
 videos/river-crossings/NEW_CHANNEL_04_FINAL.mp4 filter=lfs diff=lfs merge=lfs -text
+videos/alcatraz/Pasado_en_Palitos_02_Alcatraz.mp4 filter=lfs diff=lfs merge=lfs -text
